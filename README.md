@@ -6,11 +6,16 @@ This directory contains informations and code to create a video surveillance, al
 
 The hardware use to make this system is as follow :
 - One Arduino (at least Uno),
+![alt text](Images/Arduino.jpg)
 - Ultrasonic sensor to determine the distance,
+![alt text](Images/Ultrasonic.png)
 - Speaker,
+![alt text](http://url/to/img.png)
 - One Raspberry Pi (at least 3 Model B) to manage the system,
 - One Raspberry Pi for each camera,
+![alt text](Images/Raspberry.jpg)
 - Raspberry Pi compatible cameras.
+![alt text](Images/Camera.jpg)
 
 ## Software
 
