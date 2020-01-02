@@ -83,7 +83,8 @@ This code is to monitor the room in live
 </body>
 </html>
 ```
-###CSS
+
+### CSS
 ```sh
 body {
  padding: 0.3%;
