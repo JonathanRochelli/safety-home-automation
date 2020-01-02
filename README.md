@@ -10,7 +10,7 @@ The hardware use to make this system is as follow :
 - Ultrasonic sensor to determine the distance,  
 ![alt text](Images/Ultrasonic.png)
 - Speaker,  
-![alt text](http://url/to/img.png)
+![alt text](Images/Speaker.jpg)
 - One Raspberry Pi (at least 3 Model B) to manage the system,  
 - One Raspberry Pi for each camera,  
 ![alt text](Images/Raspberry.jpg)
