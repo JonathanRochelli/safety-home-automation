@@ -1,0 +1,1571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style">
+  <notation:Diagram xmi:id="_jUlrEC0_EeqqpY0lJAt8Mg" type="PapyrusUMLClassDiagram" name="SysML 1.6 Requirement Diagram" measurementUnit="Pixel">
+    <children xsi:type="notation:Shape" xmi:id="_-bGokC1DEeqqpY0lJAt8Mg" type="Class_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_-bHPoC1DEeqqpY0lJAt8Mg" type="Class_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_-bHPoS1DEeqqpY0lJAt8Mg" type="Class_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_-bHPoi1DEeqqpY0lJAt8Mg" y="15"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_-bHPoy1DEeqqpY0lJAt8Mg" type="Class_AttributeCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_-bHPpC1DEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_-bHPpS1DEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_-bHPpi1DEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_-bHPpy1DEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_-bHPqC1DEeqqpY0lJAt8Mg" type="Class_OperationCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_-bHPqS1DEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_-bHPqi1DEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_-bHPqy1DEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_-bHPrC1DEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_-bHPrS1DEeqqpY0lJAt8Mg" type="Class_NestedClassifierCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_-bHPri1DEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_-bHPry1DEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_-bHPsC1DEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_-bHPsS1DEeqqpY0lJAt8Mg"/>
+      </children>
+      <element href="safety-home-automation.uml#_-a50QC1DEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_-bGokS1DEeqqpY0lJAt8Mg" x="320" y="20" width="260" height="41"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_OfxmEC1EEeqqpY0lJAt8Mg" type="Class_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_OfxmEi1EEeqqpY0lJAt8Mg" type="Class_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_OfxmEy1EEeqqpY0lJAt8Mg" type="Class_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_OfxmFC1EEeqqpY0lJAt8Mg" y="15"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_OfxmFS1EEeqqpY0lJAt8Mg" type="Class_AttributeCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_OfxmFi1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_OfxmFy1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_OfxmGC1EEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_OfxmGS1EEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_OfxmGi1EEeqqpY0lJAt8Mg" type="Class_OperationCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_OfxmGy1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_OfxmHC1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_OfxmHS1EEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_OfxmHi1EEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_OfxmHy1EEeqqpY0lJAt8Mg" type="Class_NestedClassifierCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_OfxmIC1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_OfxmIS1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_OfxmIi1EEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_OfxmIy1EEeqqpY0lJAt8Mg"/>
+      </children>
+      <element href="safety-home-automation.uml#_OfsGgC1EEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_OfxmES1EEeqqpY0lJAt8Mg" y="100" width="161"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_gmALoC1EEeqqpY0lJAt8Mg" type="Class_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_gmALoi1EEeqqpY0lJAt8Mg" type="Class_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_gmALoy1EEeqqpY0lJAt8Mg" type="Class_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_gmALpC1EEeqqpY0lJAt8Mg" y="15"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_gmALpS1EEeqqpY0lJAt8Mg" type="Class_AttributeCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_gmALpi1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_gmALpy1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_gmALqC1EEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_gmALqS1EEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_gmAysC1EEeqqpY0lJAt8Mg" type="Class_OperationCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_gmAysS1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_gmAysi1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_gmAysy1EEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_gmAytC1EEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_gmAytS1EEeqqpY0lJAt8Mg" type="Class_NestedClassifierCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_gmAyti1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_gmAyty1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_gmAyuC1EEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_gmAyuS1EEeqqpY0lJAt8Mg"/>
+      </children>
+      <element href="safety-home-automation.uml#_gl76MC1EEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_gmALoS1EEeqqpY0lJAt8Mg" x="400" y="100" width="167"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_nX7LYC1EEeqqpY0lJAt8Mg" type="Class_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_nX7LYi1EEeqqpY0lJAt8Mg" type="Class_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_nX7LYy1EEeqqpY0lJAt8Mg" type="Class_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_nX7LZC1EEeqqpY0lJAt8Mg" y="15"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_nX7LZS1EEeqqpY0lJAt8Mg" type="Class_AttributeCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_nX7LZi1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_nX7LZy1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_nX7LaC1EEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_nX7LaS1EEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_nX7Lai1EEeqqpY0lJAt8Mg" type="Class_OperationCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_nX7Lay1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_nX7LbC1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_nX7LbS1EEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_nX7Lbi1EEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_nX7Lby1EEeqqpY0lJAt8Mg" type="Class_NestedClassifierCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_nX7LcC1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_nX7LcS1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_nX7Lci1EEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_nX7Lcy1EEeqqpY0lJAt8Mg"/>
+      </children>
+      <element href="safety-home-automation.uml#_nX1EwC1EEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_nX7LYS1EEeqqpY0lJAt8Mg" x="620" y="100" width="241"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_zeJ9YC1EEeqqpY0lJAt8Mg" type="Class_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_zeJ9Yi1EEeqqpY0lJAt8Mg" type="Class_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_zeJ9Yy1EEeqqpY0lJAt8Mg" type="Class_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_zeJ9ZC1EEeqqpY0lJAt8Mg" y="15"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_zeJ9ZS1EEeqqpY0lJAt8Mg" type="Class_AttributeCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_zeJ9Zi1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_zeJ9Zy1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_zeJ9aC1EEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zeJ9aS1EEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_zeJ9ai1EEeqqpY0lJAt8Mg" type="Class_OperationCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_zeJ9ay1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_zeJ9bC1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_zeJ9bS1EEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zeJ9bi1EEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_zeJ9by1EEeqqpY0lJAt8Mg" type="Class_NestedClassifierCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_zeJ9cC1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_zeJ9cS1EEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_zeJ9ci1EEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zeJ9cy1EEeqqpY0lJAt8Mg"/>
+      </children>
+      <element href="safety-home-automation.uml#_zeDPsC1EEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zeJ9YS1EEeqqpY0lJAt8Mg" x="560" y="260" width="183"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_FQ_F0C1FEeqqpY0lJAt8Mg" type="Class_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_FQ_F0i1FEeqqpY0lJAt8Mg" type="Class_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_FQ_F0y1FEeqqpY0lJAt8Mg" type="Class_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_FQ_s4C1FEeqqpY0lJAt8Mg" y="15"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_FQ_s4S1FEeqqpY0lJAt8Mg" type="Class_AttributeCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_FQ_s4i1FEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_FQ_s4y1FEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_FQ_s5C1FEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_FQ_s5S1FEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_FQ_s5i1FEeqqpY0lJAt8Mg" type="Class_OperationCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_FQ_s5y1FEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_FQ_s6C1FEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_FQ_s6S1FEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_FQ_s6i1FEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_FQ_s6y1FEeqqpY0lJAt8Mg" type="Class_NestedClassifierCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_FQ_s7C1FEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_FQ_s7S1FEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_FQ_s7i1FEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_FQ_s7y1FEeqqpY0lJAt8Mg"/>
+      </children>
+      <element href="safety-home-automation.uml#_FQ5mQC1FEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_FQ_F0S1FEeqqpY0lJAt8Mg" x="300" y="260" width="221"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_OzbP8C1GEeqqpY0lJAt8Mg" type="Class_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_Ozb3AC1GEeqqpY0lJAt8Mg" type="Class_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_Ozb3AS1GEeqqpY0lJAt8Mg" type="Class_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_Ozb3Ai1GEeqqpY0lJAt8Mg" y="15"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_Ozb3Ay1GEeqqpY0lJAt8Mg" type="Class_AttributeCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_Ozb3BC1GEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_Ozb3BS1GEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_Ozb3Bi1GEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Ozb3By1GEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_Ozb3CC1GEeqqpY0lJAt8Mg" type="Class_OperationCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_Ozb3CS1GEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_Ozb3Ci1GEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_Ozb3Cy1GEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Ozb3DC1GEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_Ozb3DS1GEeqqpY0lJAt8Mg" type="Class_NestedClassifierCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_Ozb3Di1GEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_Ozb3Dy1GEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_Ozb3EC1GEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Ozb3ES1GEeqqpY0lJAt8Mg"/>
+      </children>
+      <element href="safety-home-automation.uml#_OzUiQC1GEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_OzbP8S1GEeqqpY0lJAt8Mg" x="200" y="100" width="141"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_GPjU8C1HEeqqpY0lJAt8Mg" type="Class_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_GPjU8i1HEeqqpY0lJAt8Mg" type="Class_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_GPjU8y1HEeqqpY0lJAt8Mg" type="Class_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_GPjU9C1HEeqqpY0lJAt8Mg" y="15"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_GPjU9S1HEeqqpY0lJAt8Mg" type="Class_AttributeCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_GPjU9i1HEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_GPjU9y1HEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_GPjU-C1HEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_GPjU-S1HEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_GPjU-i1HEeqqpY0lJAt8Mg" type="Class_OperationCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_GPjU-y1HEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_GPjU_C1HEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_GPjU_S1HEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_GPjU_i1HEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_GPjU_y1HEeqqpY0lJAt8Mg" type="Class_NestedClassifierCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_GPjVAC1HEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_GPjVAS1HEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_GPjVAi1HEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_GPjVAy1HEeqqpY0lJAt8Mg"/>
+      </children>
+      <element href="safety-home-automation.uml#_GPgRoC1HEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_GPjU8S1HEeqqpY0lJAt8Mg" x="60" y="260" width="181"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_PNLIgC1NEeqZe_hUjd9hcw" type="StereotypeComment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_PNLIgS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_PNLIgy1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_-a50QC1DEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PNLIgi1NEeqZe_hUjd9hcw" x="520" y="20"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_POEgYy1NEeqZe_hUjd9hcw" type="StereotypeComment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_POEgZC1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_POFHcC1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_OfsGgC1EEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_POEgZS1NEeqZe_hUjd9hcw" x="200" y="100"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_POq9UC1NEeqZe_hUjd9hcw" type="StereotypeComment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_POq9US1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_POq9Uy1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_gl76MC1EEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_POq9Ui1NEeqZe_hUjd9hcw" x="600" y="100"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_PPNv4C1NEeqZe_hUjd9hcw" type="StereotypeComment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_PPNv4S1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_PPOW8C1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_nX1EwC1EEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PPNv4i1NEeqZe_hUjd9hcw" x="820" y="100"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_PPutQC1NEeqZe_hUjd9hcw" type="StereotypeComment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_PPutQS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_PPutQy1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_zeDPsC1EEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PPutQi1NEeqZe_hUjd9hcw" x="760" y="260"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_PQLZMC1NEeqZe_hUjd9hcw" type="StereotypeComment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_PQLZMS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_PQLZMy1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_PVsE8C1FEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PQLZMi1NEeqZe_hUjd9hcw" x="760" y="160"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_PQSt8C1NEeqZe_hUjd9hcw" type="StereotypeComment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_PQSt8S1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_PQSt8y1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_P_w8sC1FEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PQSt8i1NEeqZe_hUjd9hcw" x="760" y="160"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_PQdGAC1NEeqZe_hUjd9hcw" type="StereotypeComment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_PQdGAS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_PQdGAy1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_FQ5mQC1FEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PQdGAi1NEeqZe_hUjd9hcw" x="500" y="260"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_PQ5x8C1NEeqZe_hUjd9hcw" type="StereotypeComment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_PQ5x8S1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_PQ5x8y1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_hGX4UC1FEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PQ5x8i1NEeqZe_hUjd9hcw" x="500" y="160"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_PRFYIC1NEeqZe_hUjd9hcw" type="StereotypeComment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_PRFYIS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_PRFYIy1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_OzUiQC1GEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PRFYIi1NEeqZe_hUjd9hcw" x="400" y="100"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_PRjSMC1NEeqZe_hUjd9hcw" type="StereotypeComment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_PRjSMS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_PRjSMy1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_GPgRoC1HEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PRjSMi1NEeqZe_hUjd9hcw" x="260" y="260"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_PSDogC1NEeqZe_hUjd9hcw" type="StereotypeComment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_PSDogS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_PSDogy1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_U5KpsC1HEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PSDogi1NEeqZe_hUjd9hcw" x="260" y="160"/>
+    </children>
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_jUlrES0_EeqqpY0lJAt8Mg" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_jUlrEi0_EeqqpY0lJAt8Mg"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_jUlrEy0_EeqqpY0lJAt8Mg" diagramKindId="org.eclipse.papyrus.sysml16.diagram.requirement">
+      <owner href="safety-home-automation.uml#_jKmBkC0_EeqqpY0lJAt8Mg"/>
+    </styles>
+    <element href="safety-home-automation.uml#_jKmBkC0_EeqqpY0lJAt8Mg"/>
+    <edges xsi:type="notation:Connector" xmi:id="_PVyLkC1FEeqqpY0lJAt8Mg" type="Abstraction_Edge" source="_zeJ9YC1EEeqqpY0lJAt8Mg" target="_nX7LYC1EEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_PVyyoC1FEeqqpY0lJAt8Mg" type="Abstraction_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_RCDgIC1FEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PVyyoS1FEeqqpY0lJAt8Mg" x="13" y="49"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_PVyyoi1FEeqqpY0lJAt8Mg" type="Abstraction_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_RCPGUC1FEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PVyyoy1FEeqqpY0lJAt8Mg" x="-12" y="11"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_PVyLkS1FEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_PVsE8C1FEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_PVyLki1FEeqqpY0lJAt8Mg" points="[700, 240, -643984, -643984]$[700, 220, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PWbEwC1FEeqqpY0lJAt8Mg" id="(0.4371584699453552,0.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PWbEwS1FEeqqpY0lJAt8Mg" id="(0.4979253112033195,1.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_P_0nEC1FEeqqpY0lJAt8Mg" type="Abstraction_Edge" source="_zeJ9YC1EEeqqpY0lJAt8Mg" target="_gmALoC1EEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_P_0nEy1FEeqqpY0lJAt8Mg" type="Abstraction_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_QnUr8C1FEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_P_0nFC1FEeqqpY0lJAt8Mg" x="-1" y="38"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_P_0nFS1FEeqqpY0lJAt8Mg" type="Abstraction_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_Qnm_0C1FEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_P_0nFi1FEeqqpY0lJAt8Mg" x="-1" y="7"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_P_0nES1FEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_P_w8sC1FEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_P_0nEi1FEeqqpY0lJAt8Mg" points="[640, 240, -643984, -643984]$[500, 220, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_QAac8C1FEeqqpY0lJAt8Mg" id="(0.4371584699453552,0.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_QAac8S1FEeqqpY0lJAt8Mg" id="(0.8383233532934131,1.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_hGcw0C1FEeqqpY0lJAt8Mg" type="Abstraction_Edge" source="_FQ_F0C1FEeqqpY0lJAt8Mg" target="_gmALoC1EEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_hGdX4C1FEeqqpY0lJAt8Mg" type="Abstraction_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_lSLKYC1FEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_hGdX4S1FEeqqpY0lJAt8Mg" y="39"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_hGdX4i1FEeqqpY0lJAt8Mg" type="Abstraction_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_lSbpEC1FEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_hGdX4y1FEeqqpY0lJAt8Mg" x="-2" y="-3"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_hGcw0S1FEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_hGX4UC1FEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_hGcw0i1FEeqqpY0lJAt8Mg" points="[300, 260, -643984, -643984]$[440, 200, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_hHGREC1FEeqqpY0lJAt8Mg" id="(0.5429864253393665,0.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_hHGRES1FEeqqpY0lJAt8Mg" id="(0.47904191616766467,1.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_ouIT4C1FEeqqpY0lJAt8Mg" type="Element_ContainmentEdge" source="_-bGokC1DEeqqpY0lJAt8Mg" target="_OfxmEC1EEeqqpY0lJAt8Mg">
+      <styles xsi:type="notation:FontStyle" xmi:id="_ouIT4S1FEeqqpY0lJAt8Mg"/>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_ouIT4i1FEeqqpY0lJAt8Mg" points="[380, 20, -643984, -643984]$[240, 100, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_ouh8gC1FEeqqpY0lJAt8Mg" id="(0.07692307692307693,1.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_ouh8gS1FEeqqpY0lJAt8Mg" id="(0.7453416149068323,0.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_pOcysC1FEeqqpY0lJAt8Mg" type="Element_ContainmentEdge" source="_-bGokC1DEeqqpY0lJAt8Mg" target="_gmALoC1EEeqqpY0lJAt8Mg">
+      <styles xsi:type="notation:FontStyle" xmi:id="_pOcysS1FEeqqpY0lJAt8Mg"/>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_pOcysi1FEeqqpY0lJAt8Mg" points="[440, 61, -643984, -643984]$[440, 100, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_pO1NMC1FEeqqpY0lJAt8Mg" id="(0.6923076923076923,1.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_pO1NMS1FEeqqpY0lJAt8Mg" id="(0.47904191616766467,0.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_pugLwC1FEeqqpY0lJAt8Mg" type="Element_ContainmentEdge" source="_-bGokC1DEeqqpY0lJAt8Mg" target="_nX7LYC1EEeqqpY0lJAt8Mg">
+      <styles xsi:type="notation:FontStyle" xmi:id="_pugLwS1FEeqqpY0lJAt8Mg"/>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_pugLwi1FEeqqpY0lJAt8Mg" points="[540, 20, -643984, -643984]$[700, 100, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_pu4mQC1FEeqqpY0lJAt8Mg" id="(0.9230769230769231,1.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_pu4mQS1FEeqqpY0lJAt8Mg" id="(0.4979253112033195,0.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_U5NtAC1HEeqqpY0lJAt8Mg" type="Abstraction_Edge" source="_GPjU8C1HEeqqpY0lJAt8Mg" target="_OzbP8C1GEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_U5OUEC1HEeqqpY0lJAt8Mg" type="Abstraction_NameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_U5OUES1HEeqqpY0lJAt8Mg" y="40"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_U5OUEi1HEeqqpY0lJAt8Mg" type="Abstraction_StereotypeLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_U5OUEy1HEeqqpY0lJAt8Mg" x="-2" y="-3"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_U5NtAS1HEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_U5KpsC1HEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_U5NtAi1HEeqqpY0lJAt8Mg" points="[160, 260, -643984, -643984]$[260, 200, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_U5-iAC1HEeqqpY0lJAt8Mg" id="(0.5524861878453039,0.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_U5_JEC1HEeqqpY0lJAt8Mg" id="(0.425531914893617,1.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_PNLvkC1NEeqZe_hUjd9hcw" type="StereotypeCommentLink" source="_-bGokC1DEeqqpY0lJAt8Mg" target="_PNLIgC1NEeqZe_hUjd9hcw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_PNLvkS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_PNLvlS1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_-a50QC1DEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_PNLvki1NEeqZe_hUjd9hcw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PNLvky1NEeqZe_hUjd9hcw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PNLvlC1NEeqZe_hUjd9hcw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_POFHcS1NEeqZe_hUjd9hcw" type="StereotypeCommentLink" source="_OfxmEC1EEeqqpY0lJAt8Mg" target="_POEgYy1NEeqZe_hUjd9hcw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_POFHci1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_POFHdi1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_OfsGgC1EEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_POFHcy1NEeqZe_hUjd9hcw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_POFHdC1NEeqZe_hUjd9hcw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_POFHdS1NEeqZe_hUjd9hcw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_POq9VC1NEeqZe_hUjd9hcw" type="StereotypeCommentLink" source="_gmALoC1EEeqqpY0lJAt8Mg" target="_POq9UC1NEeqZe_hUjd9hcw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_POq9VS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_POrkYC1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_gl76MC1EEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_POq9Vi1NEeqZe_hUjd9hcw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_POq9Vy1NEeqZe_hUjd9hcw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_POq9WC1NEeqZe_hUjd9hcw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_PPOW8S1NEeqZe_hUjd9hcw" type="StereotypeCommentLink" source="_nX7LYC1EEeqqpY0lJAt8Mg" target="_PPNv4C1NEeqZe_hUjd9hcw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_PPOW8i1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_PPOW9i1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_nX1EwC1EEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_PPOW8y1NEeqZe_hUjd9hcw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PPOW9C1NEeqZe_hUjd9hcw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PPOW9S1NEeqZe_hUjd9hcw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_PPutRC1NEeqZe_hUjd9hcw" type="StereotypeCommentLink" source="_zeJ9YC1EEeqqpY0lJAt8Mg" target="_PPutQC1NEeqZe_hUjd9hcw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_PPutRS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_PPvUUS1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_zeDPsC1EEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_PPutRi1NEeqZe_hUjd9hcw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PPutRy1NEeqZe_hUjd9hcw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PPvUUC1NEeqZe_hUjd9hcw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_PQLZNC1NEeqZe_hUjd9hcw" type="StereotypeCommentLink" source="_PVyLkC1FEeqqpY0lJAt8Mg" target="_PQLZMC1NEeqZe_hUjd9hcw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_PQLZNS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_PQLZOS1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_PVsE8C1FEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_PQLZNi1NEeqZe_hUjd9hcw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PQLZNy1NEeqZe_hUjd9hcw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PQLZOC1NEeqZe_hUjd9hcw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_PQSt9C1NEeqZe_hUjd9hcw" type="StereotypeCommentLink" source="_P_0nEC1FEeqqpY0lJAt8Mg" target="_PQSt8C1NEeqZe_hUjd9hcw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_PQSt9S1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_PQSt-S1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_P_w8sC1FEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_PQSt9i1NEeqZe_hUjd9hcw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PQSt9y1NEeqZe_hUjd9hcw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PQSt-C1NEeqZe_hUjd9hcw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_PQdGBC1NEeqZe_hUjd9hcw" type="StereotypeCommentLink" source="_FQ_F0C1FEeqqpY0lJAt8Mg" target="_PQdGAC1NEeqZe_hUjd9hcw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_PQdGBS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_PQdGCS1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_FQ5mQC1FEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_PQdGBi1NEeqZe_hUjd9hcw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PQdGBy1NEeqZe_hUjd9hcw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PQdGCC1NEeqZe_hUjd9hcw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_PQ5x9C1NEeqZe_hUjd9hcw" type="StereotypeCommentLink" source="_hGcw0C1FEeqqpY0lJAt8Mg" target="_PQ5x8C1NEeqZe_hUjd9hcw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_PQ5x9S1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_PQ6ZAC1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_hGX4UC1FEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_PQ5x9i1NEeqZe_hUjd9hcw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PQ5x9y1NEeqZe_hUjd9hcw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PQ5x-C1NEeqZe_hUjd9hcw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_PRFYJC1NEeqZe_hUjd9hcw" type="StereotypeCommentLink" source="_OzbP8C1GEeqqpY0lJAt8Mg" target="_PRFYIC1NEeqZe_hUjd9hcw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_PRFYJS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_PRFYKS1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_OzUiQC1GEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_PRFYJi1NEeqZe_hUjd9hcw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PRFYJy1NEeqZe_hUjd9hcw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PRFYKC1NEeqZe_hUjd9hcw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_PRjSNC1NEeqZe_hUjd9hcw" type="StereotypeCommentLink" source="_GPjU8C1HEeqqpY0lJAt8Mg" target="_PRjSMC1NEeqZe_hUjd9hcw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_PRjSNS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_PRj5QC1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_GPgRoC1HEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_PRjSNi1NEeqZe_hUjd9hcw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PRjSNy1NEeqZe_hUjd9hcw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PRjSOC1NEeqZe_hUjd9hcw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_PSDohC1NEeqZe_hUjd9hcw" type="StereotypeCommentLink" source="_U5NtAC1HEeqqpY0lJAt8Mg" target="_PSDogC1NEeqZe_hUjd9hcw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_PSDohS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_PSEPki1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_U5KpsC1HEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_PSDohi1NEeqZe_hUjd9hcw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PSEPkC1NEeqZe_hUjd9hcw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PSEPkS1NEeqZe_hUjd9hcw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_RVOaIC1NEeqZe_hUjd9hcw" type="Element_ContainmentEdge" source="_-bGokC1DEeqqpY0lJAt8Mg" target="_OzbP8C1GEeqqpY0lJAt8Mg">
+      <styles xsi:type="notation:FontStyle" xmi:id="_RVOaIS1NEeqZe_hUjd9hcw"/>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_RVOaIi1NEeqZe_hUjd9hcw" points="[400, 61, -643984, -643984]$[280, 100, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_RWx5UC1NEeqZe_hUjd9hcw" id="(0.3076923076923077,1.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_RWygYC1NEeqZe_hUjd9hcw" id="(0.5673758865248227,0.0)"/>
+    </edges>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_jWIjMC0_EeqqpY0lJAt8Mg" type="PapyrusUMLClassDiagram" name="SysML 1.6 Block Definition Diagram" measurementUnit="Pixel">
+    <children xsi:type="notation:Shape" xmi:id="_ujl6IC0_EeqqpY0lJAt8Mg" type="Class_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_ujmhMC0_EeqqpY0lJAt8Mg" type="Class_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_ujnIQC0_EeqqpY0lJAt8Mg" type="Class_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ujnIQS0_EeqqpY0lJAt8Mg" y="5"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_ujnIQi0_EeqqpY0lJAt8Mg" type="Class_AttributeCompartment">
+        <eAnnotations xmi:id="_uriJoC1JEeqqpY0lJAt8Mg" source="PapyrusCSSForceValue">
+          <details xmi:id="_uriJoS1JEeqqpY0lJAt8Mg" key="collapsed" value="true"/>
+        </eAnnotations>
+        <styles xsi:type="notation:TitleStyle" xmi:id="_ujnIQy0_EeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_ujnIRC0_EeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_ujnIRS0_EeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_ujnIRi0_EeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_ujnIRy0_EeqqpY0lJAt8Mg" type="Class_OperationCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_ujnISC0_EeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_ujnISS0_EeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_ujnISi0_EeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_ujnISy0_EeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_ujnITC0_EeqqpY0lJAt8Mg" type="Class_NestedClassifierCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_ujnITS0_EeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_ujnITi0_EeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_ujnITy0_EeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_ujnIUC0_EeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_uj8fcC0_EeqqpY0lJAt8Mg" type="StereotypeLabel">
+        <styles xsi:type="notation:StringValueStyle" xmi:id="_uj8fcS0_EeqqpY0lJAt8Mg" name="stereotype" stringValue="SysML::Blocks::Block"/>
+        <element href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Blocks.stereotype_packagedElement_Block"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_uj8fci0_EeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_uj9GgC0_EeqqpY0lJAt8Mg" type="StereotypeBrace">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_uj9GgS0_EeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:StringValueStyle" xmi:id="_uj9Ggi0_EeqqpY0lJAt8Mg" name="stereotype" stringValue="SysML::Blocks::Block"/>
+        <element href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Blocks.stereotype_packagedElement_Block"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_uj9Ggy0_EeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:Compartment" xmi:id="_ukAw4C0_EeqqpY0lJAt8Mg" type="Flow Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_ukAw4S0_EeqqpY0lJAt8Mg" type="constraints"/>
+      <children xsi:type="notation:Compartment" xmi:id="_ukBX8C0_EeqqpY0lJAt8Mg" type="Parts"/>
+      <children xsi:type="notation:Compartment" xmi:id="_ukBX8S0_EeqqpY0lJAt8Mg" type="Proxy Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_ukBX8i0_EeqqpY0lJAt8Mg" type="Full Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_ukBX8y0_EeqqpY0lJAt8Mg" type="References"/>
+      <children xsi:type="notation:Compartment" xmi:id="_ukBX9C0_EeqqpY0lJAt8Mg" type="Flow Properties"/>
+      <children xsi:type="notation:Compartment" xmi:id="_ukB_AC0_EeqqpY0lJAt8Mg" type="Parameters"/>
+      <element href="safety-home-automation.uml#_ujcwMC0_EeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_ujl6IS0_EeqqpY0lJAt8Mg" x="320" y="120" width="236" height="41"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_0aYi0C1JEeqqpY0lJAt8Mg" type="Class_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_0aYi0i1JEeqqpY0lJAt8Mg" type="Class_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_0aYi0y1JEeqqpY0lJAt8Mg" type="Class_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_0aYi1C1JEeqqpY0lJAt8Mg" y="5"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_0aYi1S1JEeqqpY0lJAt8Mg" type="Class_AttributeCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_0aYi1i1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_0aYi1y1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_0aYi2C1JEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_0aYi2S1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_0aYi2i1JEeqqpY0lJAt8Mg" type="Class_OperationCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_0aYi2y1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_0aYi3C1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_0aYi3S1JEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_0aYi3i1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_0aYi3y1JEeqqpY0lJAt8Mg" type="Class_NestedClassifierCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_0aYi4C1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_0aYi4S1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_0aYi4i1JEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_0aYi4y1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_0acNMC1JEeqqpY0lJAt8Mg" type="StereotypeLabel">
+        <styles xsi:type="notation:StringValueStyle" xmi:id="_0acNMS1JEeqqpY0lJAt8Mg" name="stereotype" stringValue="SysML::Blocks::Block"/>
+        <element href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Blocks.stereotype_packagedElement_Block"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_0acNMi1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_0acNMy1JEeqqpY0lJAt8Mg" type="StereotypeBrace">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_0acNNC1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:StringValueStyle" xmi:id="_0acNNS1JEeqqpY0lJAt8Mg" name="stereotype" stringValue="SysML::Blocks::Block"/>
+        <element href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Blocks.stereotype_packagedElement_Block"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_0acNNi1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:Compartment" xmi:id="_0ac0QC1JEeqqpY0lJAt8Mg" type="Flow Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_0ac0QS1JEeqqpY0lJAt8Mg" type="constraints"/>
+      <children xsi:type="notation:Compartment" xmi:id="_0ac0Qi1JEeqqpY0lJAt8Mg" type="Parts"/>
+      <children xsi:type="notation:Compartment" xmi:id="_0ac0Qy1JEeqqpY0lJAt8Mg" type="Proxy Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_0ac0RC1JEeqqpY0lJAt8Mg" type="Full Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_0ac0RS1JEeqqpY0lJAt8Mg" type="References"/>
+      <children xsi:type="notation:Compartment" xmi:id="_0ac0Ri1JEeqqpY0lJAt8Mg" type="Flow Properties"/>
+      <children xsi:type="notation:Compartment" xmi:id="_0adbUC1JEeqqpY0lJAt8Mg" type="Parameters"/>
+      <element href="safety-home-automation.uml#_0aU4cC1JEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_0aYi0S1JEeqqpY0lJAt8Mg" x="320" y="20" width="241" height="43"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_3TjIUC1JEeqqpY0lJAt8Mg" type="Class_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_3TjIUi1JEeqqpY0lJAt8Mg" type="Class_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_3TjIUy1JEeqqpY0lJAt8Mg" type="Class_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_3TjIVC1JEeqqpY0lJAt8Mg" y="5"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_3TjvYC1JEeqqpY0lJAt8Mg" type="Class_AttributeCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_3TjvYS1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_3TjvYi1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_3TjvYy1JEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_3TjvZC1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_3TjvZS1JEeqqpY0lJAt8Mg" type="Class_OperationCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_3TjvZi1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_3TjvZy1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_3TjvaC1JEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_3TjvaS1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_3Tjvai1JEeqqpY0lJAt8Mg" type="Class_NestedClassifierCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_3Tjvay1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_3TjvbC1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_3TjvbS1JEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_3Tjvbi1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_3TmysC1JEeqqpY0lJAt8Mg" type="StereotypeLabel">
+        <styles xsi:type="notation:StringValueStyle" xmi:id="_3TmysS1JEeqqpY0lJAt8Mg" name="stereotype" stringValue="SysML::Blocks::Block"/>
+        <element href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Blocks.stereotype_packagedElement_Block"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_3Tmysi1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_3Tmysy1JEeqqpY0lJAt8Mg" type="StereotypeBrace">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_3TmytC1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:StringValueStyle" xmi:id="_3TmytS1JEeqqpY0lJAt8Mg" name="stereotype" stringValue="SysML::Blocks::Block"/>
+        <element href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Blocks.stereotype_packagedElement_Block"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_3Tmyti1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:Compartment" xmi:id="_3TnZwi1JEeqqpY0lJAt8Mg" type="Flow Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_3TnZwy1JEeqqpY0lJAt8Mg" type="constraints"/>
+      <children xsi:type="notation:Compartment" xmi:id="_3TnZxC1JEeqqpY0lJAt8Mg" type="Parts"/>
+      <children xsi:type="notation:Compartment" xmi:id="_3TnZxS1JEeqqpY0lJAt8Mg" type="Proxy Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_3ToA0C1JEeqqpY0lJAt8Mg" type="Full Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_3ToA0S1JEeqqpY0lJAt8Mg" type="References"/>
+      <children xsi:type="notation:Compartment" xmi:id="_3ToA0i1JEeqqpY0lJAt8Mg" type="Flow Properties"/>
+      <children xsi:type="notation:Compartment" xmi:id="_3ToA0y1JEeqqpY0lJAt8Mg" type="Parameters"/>
+      <element href="safety-home-automation.uml#_3TgsEC1JEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_3TjIUS1JEeqqpY0lJAt8Mg" x="20" y="20" width="129" height="41"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_52p-QC1JEeqqpY0lJAt8Mg" type="Class_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_52p-Qi1JEeqqpY0lJAt8Mg" type="Class_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_52p-Qy1JEeqqpY0lJAt8Mg" type="Class_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_52p-RC1JEeqqpY0lJAt8Mg" y="5"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_52p-RS1JEeqqpY0lJAt8Mg" type="Class_AttributeCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_52p-Ri1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_52p-Ry1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_52p-SC1JEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_52p-SS1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_52p-Si1JEeqqpY0lJAt8Mg" type="Class_OperationCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_52p-Sy1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_52p-TC1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_52p-TS1JEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_52p-Ti1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_52qlUC1JEeqqpY0lJAt8Mg" type="Class_NestedClassifierCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_52qlUS1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_52qlUi1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_52qlUy1JEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_52qlVC1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_52u2wC1JEeqqpY0lJAt8Mg" type="StereotypeLabel">
+        <styles xsi:type="notation:StringValueStyle" xmi:id="_52u2wS1JEeqqpY0lJAt8Mg" name="stereotype" stringValue="SysML::Blocks::Block"/>
+        <element href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Blocks.stereotype_packagedElement_Block"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_52u2wi1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_52u2wy1JEeqqpY0lJAt8Mg" type="StereotypeBrace">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_52u2xC1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:StringValueStyle" xmi:id="_52u2xS1JEeqqpY0lJAt8Mg" name="stereotype" stringValue="SysML::Blocks::Block"/>
+        <element href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Blocks.stereotype_packagedElement_Block"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_52u2xi1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:Compartment" xmi:id="_52u2yS1JEeqqpY0lJAt8Mg" type="Flow Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_52vd0C1JEeqqpY0lJAt8Mg" type="constraints"/>
+      <children xsi:type="notation:Compartment" xmi:id="_52vd0S1JEeqqpY0lJAt8Mg" type="Parts"/>
+      <children xsi:type="notation:Compartment" xmi:id="_52vd0i1JEeqqpY0lJAt8Mg" type="Proxy Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_52vd0y1JEeqqpY0lJAt8Mg" type="Full Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_52vd1C1JEeqqpY0lJAt8Mg" type="References"/>
+      <children xsi:type="notation:Compartment" xmi:id="_52vd1S1JEeqqpY0lJAt8Mg" type="Flow Properties"/>
+      <children xsi:type="notation:Compartment" xmi:id="_52vd1i1JEeqqpY0lJAt8Mg" type="Parameters"/>
+      <element href="safety-home-automation.uml#_52lFwC1JEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_52p-QS1JEeqqpY0lJAt8Mg" x="740" y="20" width="181" height="41"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_8F9ucC1JEeqqpY0lJAt8Mg" type="Class_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_8F9uci1JEeqqpY0lJAt8Mg" type="Class_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_8F9ucy1JEeqqpY0lJAt8Mg" type="Class_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_8F9udC1JEeqqpY0lJAt8Mg" y="5"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_8F9udS1JEeqqpY0lJAt8Mg" type="Class_AttributeCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_8F9udi1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_8F9udy1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_8F9ueC1JEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_8F9ueS1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_8F-VgC1JEeqqpY0lJAt8Mg" type="Class_OperationCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_8F-VgS1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_8F-Vgi1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_8F-Vgy1JEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_8F-VhC1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_8F-VhS1JEeqqpY0lJAt8Mg" type="Class_NestedClassifierCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_8F-Vhi1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_8F-Vhy1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_8F-ViC1JEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_8F-ViS1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_8GBY0C1JEeqqpY0lJAt8Mg" type="StereotypeLabel">
+        <styles xsi:type="notation:StringValueStyle" xmi:id="_8GBY0S1JEeqqpY0lJAt8Mg" name="stereotype" stringValue="SysML::Blocks::Block"/>
+        <element href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Blocks.stereotype_packagedElement_Block"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_8GBY0i1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_8GBY0y1JEeqqpY0lJAt8Mg" type="StereotypeBrace">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_8GBY1C1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:StringValueStyle" xmi:id="_8GBY1S1JEeqqpY0lJAt8Mg" name="stereotype" stringValue="SysML::Blocks::Block"/>
+        <element href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Blocks.stereotype_packagedElement_Block"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_8GBY1i1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:Compartment" xmi:id="_8GBY2S1JEeqqpY0lJAt8Mg" type="Flow Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_8GBY2i1JEeqqpY0lJAt8Mg" type="constraints"/>
+      <children xsi:type="notation:Compartment" xmi:id="_8GBY2y1JEeqqpY0lJAt8Mg" type="Parts"/>
+      <children xsi:type="notation:Compartment" xmi:id="_8GB_4C1JEeqqpY0lJAt8Mg" type="Proxy Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_8GB_4S1JEeqqpY0lJAt8Mg" type="Full Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_8GB_4i1JEeqqpY0lJAt8Mg" type="References"/>
+      <children xsi:type="notation:Compartment" xmi:id="_8GB_4y1JEeqqpY0lJAt8Mg" type="Flow Properties"/>
+      <children xsi:type="notation:Compartment" xmi:id="_8GB_5C1JEeqqpY0lJAt8Mg" type="Parameters"/>
+      <element href="safety-home-automation.uml#_8F7SMC1JEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_8F9ucS1JEeqqpY0lJAt8Mg" x="540" y="200" width="266" height="35"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_95KKYC1JEeqqpY0lJAt8Mg" type="Class_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_95KKYi1JEeqqpY0lJAt8Mg" type="Class_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_95KKYy1JEeqqpY0lJAt8Mg" type="Class_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_95KKZC1JEeqqpY0lJAt8Mg" y="5"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_95KKZS1JEeqqpY0lJAt8Mg" type="Class_AttributeCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_95KKZi1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_95KKZy1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_95KKaC1JEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_95KKaS1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_95KKai1JEeqqpY0lJAt8Mg" type="Class_OperationCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_95KKay1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_95KKbC1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_95KKbS1JEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_95KKbi1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_95KKby1JEeqqpY0lJAt8Mg" type="Class_NestedClassifierCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_95KKcC1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_95KKcS1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_95KKci1JEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_95KKcy1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_95NNsC1JEeqqpY0lJAt8Mg" type="StereotypeLabel">
+        <styles xsi:type="notation:StringValueStyle" xmi:id="_95NNsS1JEeqqpY0lJAt8Mg" name="stereotype" stringValue="SysML::Blocks::Block"/>
+        <element href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Blocks.stereotype_packagedElement_Block"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_95NNsi1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_95NNsy1JEeqqpY0lJAt8Mg" type="StereotypeBrace">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_95NNtC1JEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:StringValueStyle" xmi:id="_95NNtS1JEeqqpY0lJAt8Mg" name="stereotype" stringValue="SysML::Blocks::Block"/>
+        <element href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Blocks.stereotype_packagedElement_Block"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_95NNti1JEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:Compartment" xmi:id="_95N0wC1JEeqqpY0lJAt8Mg" type="Flow Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_95N0wS1JEeqqpY0lJAt8Mg" type="constraints"/>
+      <children xsi:type="notation:Compartment" xmi:id="_95N0wi1JEeqqpY0lJAt8Mg" type="Parts"/>
+      <children xsi:type="notation:Compartment" xmi:id="_95N0wy1JEeqqpY0lJAt8Mg" type="Proxy Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_95N0xC1JEeqqpY0lJAt8Mg" type="Full Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_95N0xS1JEeqqpY0lJAt8Mg" type="References"/>
+      <children xsi:type="notation:Compartment" xmi:id="_95N0xi1JEeqqpY0lJAt8Mg" type="Flow Properties"/>
+      <children xsi:type="notation:Compartment" xmi:id="_95N0xy1JEeqqpY0lJAt8Mg" type="Parameters"/>
+      <element href="safety-home-automation.uml#_95HHEC1JEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_95KKYS1JEeqqpY0lJAt8Mg" x="60" y="300" width="218" height="39"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_BAypsC1KEeqqpY0lJAt8Mg" type="Class_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_BAzQwC1KEeqqpY0lJAt8Mg" type="Class_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_BAzQwS1KEeqqpY0lJAt8Mg" type="Class_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_BAzQwi1KEeqqpY0lJAt8Mg" y="5"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_BAzQwy1KEeqqpY0lJAt8Mg" type="Class_AttributeCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_BAzQxC1KEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_BAzQxS1KEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_BAzQxi1KEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_BAzQxy1KEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_BAzQyC1KEeqqpY0lJAt8Mg" type="Class_OperationCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_BAzQyS1KEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_BAzQyi1KEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_BAzQyy1KEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_BAzQzC1KEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_BAzQzS1KEeqqpY0lJAt8Mg" type="Class_NestedClassifierCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_BAzQzi1KEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_BAzQzy1KEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_BAzQ0C1KEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_BAzQ0S1KEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_BA2UEC1KEeqqpY0lJAt8Mg" type="StereotypeLabel">
+        <styles xsi:type="notation:StringValueStyle" xmi:id="_BA2UES1KEeqqpY0lJAt8Mg" name="stereotype" stringValue="SysML::Blocks::Block"/>
+        <element href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Blocks.stereotype_packagedElement_Block"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_BA2UEi1KEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_BA2UEy1KEeqqpY0lJAt8Mg" type="StereotypeBrace">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_BA2UFC1KEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:StringValueStyle" xmi:id="_BA2UFS1KEeqqpY0lJAt8Mg" name="stereotype" stringValue="SysML::Blocks::Block"/>
+        <element href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Blocks.stereotype_packagedElement_Block"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_BA2UFi1KEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:Compartment" xmi:id="_BA27IC1KEeqqpY0lJAt8Mg" type="Flow Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_BA27IS1KEeqqpY0lJAt8Mg" type="constraints"/>
+      <children xsi:type="notation:Compartment" xmi:id="_BA27Ii1KEeqqpY0lJAt8Mg" type="Parts"/>
+      <children xsi:type="notation:Compartment" xmi:id="_BA27Iy1KEeqqpY0lJAt8Mg" type="Proxy Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_BA27JC1KEeqqpY0lJAt8Mg" type="Full Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_BA27JS1KEeqqpY0lJAt8Mg" type="References"/>
+      <children xsi:type="notation:Compartment" xmi:id="_BA27Ji1KEeqqpY0lJAt8Mg" type="Flow Properties"/>
+      <children xsi:type="notation:Compartment" xmi:id="_BA27Jy1KEeqqpY0lJAt8Mg" type="Parameters"/>
+      <element href="safety-home-automation.uml#_BAwNcC1KEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_BAypsS1KEeqqpY0lJAt8Mg" x="40" y="200" width="288" height="38"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_C6RT0C1KEeqqpY0lJAt8Mg" type="Class_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_C6RT0i1KEeqqpY0lJAt8Mg" type="Class_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_C6RT0y1KEeqqpY0lJAt8Mg" type="Class_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_C6RT1C1KEeqqpY0lJAt8Mg" y="5"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_C6RT1S1KEeqqpY0lJAt8Mg" type="Class_AttributeCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_C6RT1i1KEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_C6RT1y1KEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_C6RT2C1KEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_C6RT2S1KEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_C6RT2i1KEeqqpY0lJAt8Mg" type="Class_OperationCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_C6RT2y1KEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_C6RT3C1KEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_C6RT3S1KEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_C6RT3i1KEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_C6RT3y1KEeqqpY0lJAt8Mg" type="Class_NestedClassifierCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_C6RT4C1KEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_C6RT4S1KEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_C6RT4i1KEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_C6RT4y1KEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_C6UXIC1KEeqqpY0lJAt8Mg" type="StereotypeLabel">
+        <styles xsi:type="notation:StringValueStyle" xmi:id="_C6UXIS1KEeqqpY0lJAt8Mg" name="stereotype" stringValue="SysML::Blocks::Block"/>
+        <element href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Blocks.stereotype_packagedElement_Block"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_C6UXIi1KEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_C6U-MC1KEeqqpY0lJAt8Mg" type="StereotypeBrace">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_C6U-MS1KEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:StringValueStyle" xmi:id="_C6U-Mi1KEeqqpY0lJAt8Mg" name="stereotype" stringValue="SysML::Blocks::Block"/>
+        <element href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Blocks.stereotype_packagedElement_Block"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_C6U-My1KEeqqpY0lJAt8Mg"/>
+      </children>
+      <children xsi:type="notation:Compartment" xmi:id="_C6U-Ni1KEeqqpY0lJAt8Mg" type="Flow Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_C6U-Ny1KEeqqpY0lJAt8Mg" type="constraints"/>
+      <children xsi:type="notation:Compartment" xmi:id="_C6U-OC1KEeqqpY0lJAt8Mg" type="Parts"/>
+      <children xsi:type="notation:Compartment" xmi:id="_C6U-OS1KEeqqpY0lJAt8Mg" type="Proxy Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_C6VlQC1KEeqqpY0lJAt8Mg" type="Full Ports"/>
+      <children xsi:type="notation:Compartment" xmi:id="_C6VlQS1KEeqqpY0lJAt8Mg" type="References"/>
+      <children xsi:type="notation:Compartment" xmi:id="_C6VlQi1KEeqqpY0lJAt8Mg" type="Flow Properties"/>
+      <children xsi:type="notation:Compartment" xmi:id="_C6VlQy1KEeqqpY0lJAt8Mg" type="Parameters"/>
+      <element href="safety-home-automation.uml#_C6O3kC1KEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_C6RT0S1KEeqqpY0lJAt8Mg" x="540" y="300" width="263" height="41"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_TXcJgC1NEeqZe_hUjd9hcw" type="StereotypeComment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_TXcJgS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_TXcJgy1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_ujcwMC0_EeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_TXcJgi1NEeqZe_hUjd9hcw" x="520" y="120"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_TXsBIC1NEeqZe_hUjd9hcw" type="StereotypeComment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_TXsBIS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_TXsBIy1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_0aU4cC1JEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_TXsBIi1NEeqZe_hUjd9hcw" x="520" y="20"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_TX6qoC1NEeqZe_hUjd9hcw" type="StereotypeComment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_TX6qoS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_TX6qoy1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_3TgsEC1JEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_TX6qoi1NEeqZe_hUjd9hcw" x="220" y="20"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_TYAxQC1NEeqZe_hUjd9hcw" type="StereotypeComment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_TYAxQS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_TYBYUC1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_52lFwC1JEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_TYAxQi1NEeqZe_hUjd9hcw" x="860" y="20"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_TYIGAC1NEeqZe_hUjd9hcw" type="StereotypeComment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_TYIGAS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_TYIGAy1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_8F7SMC1JEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_TYIGAi1NEeqZe_hUjd9hcw" x="740" y="200"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_TYR3AC1NEeqZe_hUjd9hcw" type="StereotypeComment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_TYR3AS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_TYR3Ay1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_95HHEC1JEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_TYR3Ai1NEeqZe_hUjd9hcw" x="260" y="300"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_TYZLwC1NEeqZe_hUjd9hcw" type="StereotypeComment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_TYZLwS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_TYZy0C1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_BAwNcC1KEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_TYZLwi1NEeqZe_hUjd9hcw" x="240" y="200"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_TYjj0C1NEeqZe_hUjd9hcw" type="StereotypeComment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_TYjj0S1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_TYjj0y1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_C6O3kC1KEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_TYjj0i1NEeqZe_hUjd9hcw" x="740" y="300"/>
+    </children>
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_jWIjMS0_EeqqpY0lJAt8Mg" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_jWIjMi0_EeqqpY0lJAt8Mg"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_jWIjMy0_EeqqpY0lJAt8Mg" diagramKindId="org.eclipse.papyrus.sysml16.diagram.blockdefinition">
+      <owner href="safety-home-automation.uml#_jKmBkC0_EeqqpY0lJAt8Mg"/>
+    </styles>
+    <element href="safety-home-automation.uml#_jKmBkC0_EeqqpY0lJAt8Mg"/>
+    <edges xsi:type="notation:Connector" xmi:id="_Ob91YC1KEeqqpY0lJAt8Mg" type="Association_Edge" source="_0aYi0C1JEeqqpY0lJAt8Mg" target="_52p-QC1JEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_Ob91Yy1KEeqqpY0lJAt8Mg" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_S2jxYC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_Ob91ZC1KEeqqpY0lJAt8Mg" y="-20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_Ob91ZS1KEeqqpY0lJAt8Mg" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_S29aAC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_Ob91Zi1KEeqqpY0lJAt8Mg" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_Ob91Zy1KEeqqpY0lJAt8Mg" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_S3K1YC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_Ob91aC1KEeqqpY0lJAt8Mg" x="47" y="-13"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_Ob91aS1KEeqqpY0lJAt8Mg" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_S3XpsC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_Ob91ai1KEeqqpY0lJAt8Mg" x="-52" y="7"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_Ob91ay1KEeqqpY0lJAt8Mg" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_S3lsIC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_Ob91bC1KEeqqpY0lJAt8Mg" x="9" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_Ob91bS1KEeqqpY0lJAt8Mg" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_S3zHgC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_Ob91bi1KEeqqpY0lJAt8Mg" x="-9" y="-20"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_Ob91YS1KEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_Obt9wC1KEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_Ob91Yi1KEeqqpY0lJAt8Mg" points="[561, 120, -643984, -643984]$[620, 120, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_OcbvcC1KEeqqpY0lJAt8Mg" id="(1.0,0.46511627906976744)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_OcbvcS1KEeqqpY0lJAt8Mg" id="(0.0,0.4878048780487805)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_PEGMYC1KEeqqpY0lJAt8Mg" type="Association_Edge" source="_0aYi0C1JEeqqpY0lJAt8Mg" target="_3TjIUC1JEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_PEGMYy1KEeqqpY0lJAt8Mg" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_P6IcgC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PEGMZC1KEeqqpY0lJAt8Mg" y="-19"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_PEGMZS1KEeqqpY0lJAt8Mg" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_P6VQ0C1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PEGMZi1KEeqqpY0lJAt8Mg" x="1" y="18"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_PEGMZy1KEeqqpY0lJAt8Mg" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_P6j6UC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PEGMaC1KEeqqpY0lJAt8Mg" x="32" y="-7"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_PEGMaS1KEeqqpY0lJAt8Mg" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_P6wuoC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PEGMai1KEeqqpY0lJAt8Mg" x="-33" y="13"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_PEGMay1KEeqqpY0lJAt8Mg" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_P69i8C1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PEGMbC1KEeqqpY0lJAt8Mg" x="12" y="18"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_PEGzcC1KEeqqpY0lJAt8Mg" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_P7KXQC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PEGzcS1KEeqqpY0lJAt8Mg" x="-12" y="-19"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_PEGMYS1KEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_PD4xAC1KEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_PEGMYi1KEeqqpY0lJAt8Mg" points="[320, 120, -643984, -643984]$[220, 100, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PElUkC1KEeqqpY0lJAt8Mg" id="(0.0,0.46511627906976744)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PElUkS1KEeqqpY0lJAt8Mg" id="(1.0,0.4878048780487805)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_SPi0sC1KEeqqpY0lJAt8Mg" type="Association_Edge" source="_ujl6IC0_EeqqpY0lJAt8Mg" target="_0aYi0C1JEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_SPi0sy1KEeqqpY0lJAt8Mg" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_S4Ai4C1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_SPi0tC1KEeqqpY0lJAt8Mg" y="-20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_SPi0tS1KEeqqpY0lJAt8Mg" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_S4N-QC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_SPjbwC1KEeqqpY0lJAt8Mg" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_SPjbwS1KEeqqpY0lJAt8Mg" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_S4bZoC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_SPjbwi1KEeqqpY0lJAt8Mg" x="13" y="-49"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_SPjbwy1KEeqqpY0lJAt8Mg" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_S4o1AC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_SPjbxC1KEeqqpY0lJAt8Mg" x="-6" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_SPjbxS1KEeqqpY0lJAt8Mg" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_S423cC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_SPjbxi1KEeqqpY0lJAt8Mg" x="6" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_SPjbxy1KEeqqpY0lJAt8Mg" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_S5DrwC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_SPjbyC1KEeqqpY0lJAt8Mg" x="-6" y="-20"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_SPi0sS1KEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_SPPSsC1KEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_SPi0si1KEeqqpY0lJAt8Mg" points="[440, 221, -643984, -643984]$[440, 20, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_SQDLAC1KEeqqpY0lJAt8Mg" id="(0.5084745762711864,0.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_SQDLAS1KEeqqpY0lJAt8Mg" id="(0.4979253112033195,1.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_bs0AYC1KEeqqpY0lJAt8Mg" type="Association_Edge" source="_ujl6IC0_EeqqpY0lJAt8Mg" target="_8F9ucC1JEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_bs0AYy1KEeqqpY0lJAt8Mg" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_dUODEC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_bs0AZC1KEeqqpY0lJAt8Mg" y="-20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_bs0AZS1KEeqqpY0lJAt8Mg" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_dUcskC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_bs0AZi1KEeqqpY0lJAt8Mg" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_bs0AZy1KEeqqpY0lJAt8Mg" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_dUqvAC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_bs0AaC1KEeqqpY0lJAt8Mg" x="54" y="16"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_bs0AaS1KEeqqpY0lJAt8Mg" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_dU4KYC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_bs0Aai1KEeqqpY0lJAt8Mg" x="-73" y="-19"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_bs0Aay1KEeqqpY0lJAt8Mg" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_dVGz4C1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_bs0AbC1KEeqqpY0lJAt8Mg" x="9" y="24"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_bs0AbS1KEeqqpY0lJAt8Mg" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_dVWEcC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_bs0Abi1KEeqqpY0lJAt8Mg" x="-10" y="-20"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_bs0AYS1KEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_bsa-0C1KEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_bs0AYi1KEeqqpY0lJAt8Mg" points="[440, 161, -643984, -643984]$[440, 226, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_btUWsC1KEeqqpY0lJAt8Mg" id="(0.5084745762711864,1.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_btUWsS1KEeqqpY0lJAt8Mg" id="(0.45112781954887216,0.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_fO8qYC1KEeqqpY0lJAt8Mg" type="Association_Edge" source="_ujl6IC0_EeqqpY0lJAt8Mg" target="_BAypsC1KEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_fO8qYy1KEeqqpY0lJAt8Mg" type="Association_StereotypeLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_fO8qZC1KEeqqpY0lJAt8Mg" y="-20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_fO8qZS1KEeqqpY0lJAt8Mg" type="Association_NameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_fO9RcC1KEeqqpY0lJAt8Mg" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_fO9RcS1KEeqqpY0lJAt8Mg" type="Association_TargetRoleLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_fO9Rci1KEeqqpY0lJAt8Mg" x="16" y="-18"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_fO9Rcy1KEeqqpY0lJAt8Mg" type="Association_SourceRoleLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_fO9RdC1KEeqqpY0lJAt8Mg" x="-38" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_fO9RdS1KEeqqpY0lJAt8Mg" type="Association_SourceMultiplicityLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_fO9Rdi1KEeqqpY0lJAt8Mg" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_fO9Rdy1KEeqqpY0lJAt8Mg" type="Association_TargetMultiplicityLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_fO9ReC1KEeqqpY0lJAt8Mg" x="4" y="7"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_fO8qYS1KEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_fOtZ0C1KEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_fO8qYi1KEeqqpY0lJAt8Mg" points="[420, 161, -643984, -643984]$[200, 200, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_fPfc8C1KEeqqpY0lJAt8Mg" id="(0.5084745762711864,1.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_fPfc8S1KEeqqpY0lJAt8Mg" id="(0.5555555555555556,0.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_ijSI8C1KEeqqpY0lJAt8Mg" type="Association_Edge" source="_8F9ucC1JEeqqpY0lJAt8Mg" target="_C6RT0C1KEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_ijSI8y1KEeqqpY0lJAt8Mg" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_lG7KYC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ijSI9C1KEeqqpY0lJAt8Mg" x="1" y="-18"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_ijSI9S1KEeqqpY0lJAt8Mg" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_lHLCAC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ijSI9i1KEeqqpY0lJAt8Mg" x="1" y="18"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_ijSI9y1KEeqqpY0lJAt8Mg" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_lHa5oC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ijSI-C1KEeqqpY0lJAt8Mg" x="12" y="-51"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_ijSI-S1KEeqqpY0lJAt8Mg" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_lHqKMC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ijSI-i1KEeqqpY0lJAt8Mg" x="-13" y="-57"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_ijSI-y1KEeqqpY0lJAt8Mg" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_lH6B0C1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ijSI_C1KEeqqpY0lJAt8Mg" x="12" y="18"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_ijSI_S1KEeqqpY0lJAt8Mg" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_lIJSYC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ijSI_i1KEeqqpY0lJAt8Mg" x="-13" y="29"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_ijSI8S1KEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_ii8xwC1KEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_ijSI8i1KEeqqpY0lJAt8Mg" points="[680, 235, -643984, -643984]$[640, 280, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_ij07gC1KEeqqpY0lJAt8Mg" id="(0.5263157894736842,1.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_ij07gS1KEeqqpY0lJAt8Mg" id="(0.532319391634981,0.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_jFxyAC1KEeqqpY0lJAt8Mg" type="Association_Edge" source="_BAypsC1KEeqqpY0lJAt8Mg" target="_95KKYC1JEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_jFxyAy1KEeqqpY0lJAt8Mg" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_je4OgC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_jFxyBC1KEeqqpY0lJAt8Mg" y="-20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_jFxyBS1KEeqqpY0lJAt8Mg" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_jfQpAC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_jFxyBi1KEeqqpY0lJAt8Mg" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_jFxyBy1KEeqqpY0lJAt8Mg" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_jfhuwC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_jFxyCC1KEeqqpY0lJAt8Mg" x="9" y="-31"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_jFxyCS1KEeqqpY0lJAt8Mg" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_jfxmYC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_jFxyCi1KEeqqpY0lJAt8Mg" x="-13" y="66"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_jFxyCy1KEeqqpY0lJAt8Mg" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_jgBeAC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_jFxyDC1KEeqqpY0lJAt8Mg" x="9" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_jFxyDS1KEeqqpY0lJAt8Mg" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_jgRVoC1KEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_jFxyDi1KEeqqpY0lJAt8Mg" x="-9" y="-20"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_jFxyAS1KEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_jFbzwC1KEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_jFxyAi1KEeqqpY0lJAt8Mg" points="[180, 238, -643984, -643984]$[120, 300, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_jGXA0C1KEeqqpY0lJAt8Mg" id="(0.4861111111111111,1.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_jGXA0S1KEeqqpY0lJAt8Mg" id="(0.5504587155963303,0.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_TXcJhC1NEeqZe_hUjd9hcw" type="StereotypeCommentLink" source="_ujl6IC0_EeqqpY0lJAt8Mg" target="_TXcJgC1NEeqZe_hUjd9hcw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_TXcJhS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_TXcJiS1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_ujcwMC0_EeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_TXcJhi1NEeqZe_hUjd9hcw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_TXcJhy1NEeqZe_hUjd9hcw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_TXcJiC1NEeqZe_hUjd9hcw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_TXsoMC1NEeqZe_hUjd9hcw" type="StereotypeCommentLink" source="_0aYi0C1JEeqqpY0lJAt8Mg" target="_TXsBIC1NEeqZe_hUjd9hcw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_TXsoMS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_TXsoNS1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_0aU4cC1JEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_TXsoMi1NEeqZe_hUjd9hcw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_TXsoMy1NEeqZe_hUjd9hcw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_TXsoNC1NEeqZe_hUjd9hcw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_TX6qpC1NEeqZe_hUjd9hcw" type="StereotypeCommentLink" source="_3TjIUC1JEeqqpY0lJAt8Mg" target="_TX6qoC1NEeqZe_hUjd9hcw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_TX6qpS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_TX6qqS1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_3TgsEC1JEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_TX6qpi1NEeqZe_hUjd9hcw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_TX6qpy1NEeqZe_hUjd9hcw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_TX6qqC1NEeqZe_hUjd9hcw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_TYBYUS1NEeqZe_hUjd9hcw" type="StereotypeCommentLink" source="_52p-QC1JEeqqpY0lJAt8Mg" target="_TYAxQC1NEeqZe_hUjd9hcw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_TYBYUi1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_TYBYVi1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_52lFwC1JEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_TYBYUy1NEeqZe_hUjd9hcw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_TYBYVC1NEeqZe_hUjd9hcw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_TYBYVS1NEeqZe_hUjd9hcw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_TYIGBC1NEeqZe_hUjd9hcw" type="StereotypeCommentLink" source="_8F9ucC1JEeqqpY0lJAt8Mg" target="_TYIGAC1NEeqZe_hUjd9hcw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_TYIGBS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_TYItEi1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_8F7SMC1JEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_TYIGBi1NEeqZe_hUjd9hcw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_TYItEC1NEeqZe_hUjd9hcw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_TYItES1NEeqZe_hUjd9hcw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_TYR3BC1NEeqZe_hUjd9hcw" type="StereotypeCommentLink" source="_95KKYC1JEeqqpY0lJAt8Mg" target="_TYR3AC1NEeqZe_hUjd9hcw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_TYR3BS1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_TYR3CS1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_95HHEC1JEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_TYR3Bi1NEeqZe_hUjd9hcw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_TYR3By1NEeqZe_hUjd9hcw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_TYR3CC1NEeqZe_hUjd9hcw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_TYZy0S1NEeqZe_hUjd9hcw" type="StereotypeCommentLink" source="_BAypsC1KEeqqpY0lJAt8Mg" target="_TYZLwC1NEeqZe_hUjd9hcw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_TYZy0i1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_TYZy1i1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_BAwNcC1KEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_TYZy0y1NEeqZe_hUjd9hcw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_TYZy1C1NEeqZe_hUjd9hcw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_TYZy1S1NEeqZe_hUjd9hcw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_TYjj1C1NEeqZe_hUjd9hcw" type="StereotypeCommentLink" source="_C6RT0C1KEeqqpY0lJAt8Mg" target="_TYjj0C1NEeqZe_hUjd9hcw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_TYjj1S1NEeqZe_hUjd9hcw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_TYjj2S1NEeqZe_hUjd9hcw" name="BASE_ELEMENT">
+        <eObjectValue href="safety-home-automation.uml#_C6O3kC1KEeqqpY0lJAt8Mg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_TYjj1i1NEeqZe_hUjd9hcw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_TYjj1y1NEeqZe_hUjd9hcw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_TYjj2C1NEeqZe_hUjd9hcw"/>
+    </edges>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_jWPQ4C0_EeqqpY0lJAt8Mg" type="UseCase" name="SysML 1.6 Use Case Diagram" measurementUnit="Pixel">
+    <children xsi:type="notation:Shape" xmi:id="_ydJ6wC1BEeqqpY0lJAt8Mg" type="Actor_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_ydKh0C1BEeqqpY0lJAt8Mg" type="Actor_NameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ydKh0S1BEeqqpY0lJAt8Mg" y="15"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_ydKh0i1BEeqqpY0lJAt8Mg" type="Actor_StereotypeLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ydKh0y1BEeqqpY0lJAt8Mg" x="20" y="100"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_ydKh1C1BEeqqpY0lJAt8Mg" type="Actor_QualifiedNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ydKh1S1BEeqqpY0lJAt8Mg" x="20" y="80"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_ydKh1i1BEeqqpY0lJAt8Mg" type="Actor_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ydKh1y1BEeqqpY0lJAt8Mg" y="15"/>
+      </children>
+      <element href="safety-home-automation.uml#_ydHegC1BEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_ydJ6wS1BEeqqpY0lJAt8Mg" x="80" y="140"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_0BkT0C1BEeqqpY0lJAt8Mg" type="UseCase_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_0BkT0i1BEeqqpY0lJAt8Mg" type="UseCase_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_0Bk64C1BEeqqpY0lJAt8Mg" type="UseCase_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_0Bk64S1BEeqqpY0lJAt8Mg" y="15"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_0Bk64i1BEeqqpY0lJAt8Mg" type="UseCase_ExtensionPointCompartment">
+        <styles xsi:type="notation:SortingStyle" xmi:id="_0Bk64y1BEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_0Bk65C1BEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_0Bk65S1BEeqqpY0lJAt8Mg"/>
+      </children>
+      <element href="safety-home-automation.uml#_0BhQgC1BEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_0BkT0S1BEeqqpY0lJAt8Mg" x="260" y="20" height="80"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_G1_cIC1CEeqqpY0lJAt8Mg" type="UseCase_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_G1_cIi1CEeqqpY0lJAt8Mg" type="UseCase_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_G2ADMC1CEeqqpY0lJAt8Mg" type="UseCase_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_G2ADMS1CEeqqpY0lJAt8Mg" y="15"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_G2ADMi1CEeqqpY0lJAt8Mg" type="UseCase_ExtensionPointCompartment">
+        <styles xsi:type="notation:SortingStyle" xmi:id="_G2ADMy1CEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_G2ADNC1CEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_G2ADNS1CEeqqpY0lJAt8Mg"/>
+      </children>
+      <element href="safety-home-automation.uml#_G18_4C1CEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_G1_cIS1CEeqqpY0lJAt8Mg" x="260" y="120" width="301" height="81"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_cpwqcC1CEeqqpY0lJAt8Mg" type="UseCase_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_cpxRgC1CEeqqpY0lJAt8Mg" type="UseCase_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_cpxRgS1CEeqqpY0lJAt8Mg" type="UseCase_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_cpxRgi1CEeqqpY0lJAt8Mg" y="15"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_cpxRgy1CEeqqpY0lJAt8Mg" type="UseCase_ExtensionPointCompartment">
+        <styles xsi:type="notation:SortingStyle" xmi:id="_cpxRhC1CEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_cpxRhS1CEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_cpxRhi1CEeqqpY0lJAt8Mg"/>
+      </children>
+      <element href="safety-home-automation.uml#_cpu1QC1CEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_cpwqcS1CEeqqpY0lJAt8Mg" x="260" y="240" width="283" height="89"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_L5sKEC1DEeqqpY0lJAt8Mg" type="UseCase_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_L5sKEi1DEeqqpY0lJAt8Mg" type="UseCase_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_L5sKEy1DEeqqpY0lJAt8Mg" type="UseCase_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_L5sKFC1DEeqqpY0lJAt8Mg" y="15"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_L5sKFS1DEeqqpY0lJAt8Mg" type="UseCase_ExtensionPointCompartment">
+        <styles xsi:type="notation:SortingStyle" xmi:id="_L5sKFi1DEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_L5sKFy1DEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_L5sKGC1DEeqqpY0lJAt8Mg"/>
+      </children>
+      <element href="safety-home-automation.uml#_L5q78C1DEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_L5sKES1DEeqqpY0lJAt8Mg" x="700" y="240"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_fiYA4C1DEeqqpY0lJAt8Mg" type="UseCase_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_fiYA4i1DEeqqpY0lJAt8Mg" type="UseCase_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_fiYA4y1DEeqqpY0lJAt8Mg" type="UseCase_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_fiYA5C1DEeqqpY0lJAt8Mg" y="15"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_fiYA5S1DEeqqpY0lJAt8Mg" type="UseCase_ExtensionPointCompartment">
+        <styles xsi:type="notation:SortingStyle" xmi:id="_fiYA5i1DEeqqpY0lJAt8Mg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_fiYA5y1DEeqqpY0lJAt8Mg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_fiYA6C1DEeqqpY0lJAt8Mg"/>
+      </children>
+      <element href="safety-home-automation.uml#_fiWywC1DEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_fiYA4S1DEeqqpY0lJAt8Mg" x="680" y="120"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_l6v4MC1DEeqqpY0lJAt8Mg" type="Actor_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_l6wfQC1DEeqqpY0lJAt8Mg" type="Actor_NameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_l6wfQS1DEeqqpY0lJAt8Mg" y="15"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_l6wfQi1DEeqqpY0lJAt8Mg" type="Actor_StereotypeLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_l6wfQy1DEeqqpY0lJAt8Mg" x="20" y="100"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_l6wfRC1DEeqqpY0lJAt8Mg" type="Actor_QualifiedNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_l6wfRS1DEeqqpY0lJAt8Mg" x="20" y="80"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_l6wfRi1DEeqqpY0lJAt8Mg" type="Actor_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_l6wfRy1DEeqqpY0lJAt8Mg" y="15"/>
+      </children>
+      <element href="safety-home-automation.uml#_l6uqEC1DEeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_l6v4MS1DEeqqpY0lJAt8Mg" x="920" y="120"/>
+    </children>
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_jWPQ4S0_EeqqpY0lJAt8Mg" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_jWPQ4i0_EeqqpY0lJAt8Mg"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_jWPQ4y0_EeqqpY0lJAt8Mg" diagramKindId="org.eclipse.papyrus.sysml16.diagram.useCase">
+      <owner href="safety-home-automation.uml#_jKmBkC0_EeqqpY0lJAt8Mg"/>
+    </styles>
+    <element href="safety-home-automation.uml#_jKmBkC0_EeqqpY0lJAt8Mg"/>
+    <edges xsi:type="notation:Connector" xmi:id="_RMKlwC1CEeqqpY0lJAt8Mg" type="Association_Edge" source="_ydJ6wC1BEeqqpY0lJAt8Mg" target="_0BkT0C1BEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_RMKlwy1CEeqqpY0lJAt8Mg" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_bqsaIC1CEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_RMKlxC1CEeqqpY0lJAt8Mg" x="1" y="38"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_RMKlxS1CEeqqpY0lJAt8Mg" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_bqxSoC1CEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_RMKlxi1CEeqqpY0lJAt8Mg" x="1" y="-18"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_RMKlwS1CEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_RMBb0C1CEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_RMKlwi1CEeqqpY0lJAt8Mg" points="[96, 100, -643984, -643984]$[280, 81, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_RMumcC1CEeqqpY0lJAt8Mg" id="(1.0,0.8)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_RMumcS1CEeqqpY0lJAt8Mg" id="(0.0,0.5)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_ShLQ4C1CEeqqpY0lJAt8Mg" type="Association_Edge" source="_ydJ6wC1BEeqqpY0lJAt8Mg" target="_G1_cIC1CEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_ShLQ4y1CEeqqpY0lJAt8Mg" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_bq1kEC1CEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ShLQ5C1CEeqqpY0lJAt8Mg" y="39"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_ShL38C1CEeqqpY0lJAt8Mg" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_bq51gC1CEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ShL38S1CEeqqpY0lJAt8Mg" x="1" y="-18"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_ShLQ4S1CEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_ShHmgC1CEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_ShLQ4i1CEeqqpY0lJAt8Mg" points="[100, 131, -643984, -643984]$[260, 160, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_ShZ6YC1CEeqqpY0lJAt8Mg" id="(1.0,0.8)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_ShahcC1CEeqqpY0lJAt8Mg" id="(0.0,0.49382716049382713)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_-PIekC1CEeqqpY0lJAt8Mg" type="Association_Edge" source="_ydJ6wC1BEeqqpY0lJAt8Mg" target="_cpwqcC1CEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_-PJFoC1CEeqqpY0lJAt8Mg" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_QEeIcC1DEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_-PJFoS1CEeqqpY0lJAt8Mg" y="39"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_-PJFoi1CEeqqpY0lJAt8Mg" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_QEjoAC1DEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_-PJFoy1CEeqqpY0lJAt8Mg" x="1" y="-18"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_-PIekS1CEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_-PFbQC1CEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_-PIeki1CEeqqpY0lJAt8Mg" points="[110, 180, -643984, -643984]$[280, 256, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_-PXIEC1CEeqqpY0lJAt8Mg" id="(1.0,0.8)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_-PXIES1CEeqqpY0lJAt8Mg" id="(0.0,0.449438202247191)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_NisIMC1DEeqqpY0lJAt8Mg" type="Include_Edge" source="_cpwqcC1CEeqqpY0lJAt8Mg" target="_L5sKEC1DEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_NisIMy1DEeqqpY0lJAt8Mg" type="Include_KeywordLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_QEpuoC1DEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_NisINC1DEeqqpY0lJAt8Mg" y="19"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_NisINS1DEeqqpY0lJAt8Mg" type="Include_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_QEvOMC1DEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_NisINi1DEeqqpY0lJAt8Mg" x="1" y="-18"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_NisIMS1DEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_NijlUC1DEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_NisIMi1DEeqqpY0lJAt8Mg" points="[520, 307, -643984, -643984]$[671, 220, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_NjARQC1DEeqqpY0lJAt8Mg" id="(1.0,0.449438202247191)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_NjARQS1DEeqqpY0lJAt8Mg" id="(0.0,0.5)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_h0ZG0C1DEeqqpY0lJAt8Mg" type="Generalization_Edge" source="_cpwqcC1CEeqqpY0lJAt8Mg" target="_fiYA4C1DEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_h0aU8C1DEeqqpY0lJAt8Mg" type="Generalization_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_jmsK4C1DEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_h0aU8S1DEeqqpY0lJAt8Mg" x="-1" y="-18"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_h0ZG0S1DEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_h0OHsC1DEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_h0ZG0i1DEeqqpY0lJAt8Mg" points="[540, 253, -643984, -643984]$[640, 150, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_h0yIYC1DEeqqpY0lJAt8Mg" id="(1.0,0.39325842696629215)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_h0yIYS1DEeqqpY0lJAt8Mg" id="(0.14285714285714285,1.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_iteD4C1DEeqqpY0lJAt8Mg" type="Generalization_Edge" source="_G1_cIC1CEeqqpY0lJAt8Mg" target="_fiYA4C1DEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_iteq8C1DEeqqpY0lJAt8Mg" type="Generalization_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_jm0GsC1DEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_iteq8S1DEeqqpY0lJAt8Mg" x="1" y="-18"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_iteD4S1DEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_itWIEC1DEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_iteD4i1DEeqqpY0lJAt8Mg" points="[540, 140, -643984, -643984]$[620, 130, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_itt7gC1DEeqqpY0lJAt8Mg" id="(1.0,0.24691358024691357)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_itt7gS1DEeqqpY0lJAt8Mg" id="(0.0,0.5)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_n6neMC1DEeqqpY0lJAt8Mg" type="Association_Edge" source="_fiYA4C1DEeqqpY0lJAt8Mg" target="_l6v4MC1DEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_n6oFQC1DEeqqpY0lJAt8Mg" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_oqSAkC1DEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_n6oFQS1DEeqqpY0lJAt8Mg" y="39"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_n6oFQi1DEeqqpY0lJAt8Mg" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_oqZ8YC1DEeqqpY0lJAt8Mg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_n6oFQy1DEeqqpY0lJAt8Mg" x="1" y="-18"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_n6neMS1DEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_n6ka4C1DEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_n6neMi1DEeqqpY0lJAt8Mg" points="[815, 140, -643984, -643984]$[920, 160, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_n65yEC1DEeqqpY0lJAt8Mg" id="(1.0,0.3333333333333333)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_n65yES1DEeqqpY0lJAt8Mg" id="(0.0,0.4)"/>
+    </edges>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_jWrVwC0_EeqqpY0lJAt8Mg" type="PapyrusUMLSequenceDiagram" name="SysML 1.6 Sequence Diagram" measurementUnit="Pixel">
+    <children xsi:type="notation:Shape" xmi:id="_jWrVwS0_EeqqpY0lJAt8Mg" type="Interaction_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_jWrVwi0_EeqqpY0lJAt8Mg" type="Interaction_NameLabel"/>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_jWrVwy0_EeqqpY0lJAt8Mg" type="Interaction_SubfragmentCompartment">
+        <children xsi:type="notation:Shape" xmi:id="_B0WxcC1GEeqqpY0lJAt8Mg" type="Lifeline_Shape">
+          <children xsi:type="notation:DecorationNode" xmi:id="_B0Wxci1GEeqqpY0lJAt8Mg" type="Lifeline_NameLabel"/>
+          <children xsi:type="notation:Shape" xmi:id="_-27sIC1HEeqqpY0lJAt8Mg" type="ActionExecutionSpecification_Shape">
+            <element href="safety-home-automation.uml#_-23asC1HEeqqpY0lJAt8Mg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_-27sIS1HEeqqpY0lJAt8Mg" x="40" y="46" width="20" height="100"/>
+          </children>
+          <element href="safety-home-automation.uml#_B0U8QC1GEeqqpY0lJAt8Mg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_B0WxcS1GEeqqpY0lJAt8Mg" x="122" y="10" height="366"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_db1OUC1HEeqqpY0lJAt8Mg" type="Lifeline_Shape">
+          <children xsi:type="notation:DecorationNode" xmi:id="_db1OUi1HEeqqpY0lJAt8Mg" type="Lifeline_NameLabel"/>
+          <children xsi:type="notation:Shape" xmi:id="_Qx8DsC1JEeqqpY0lJAt8Mg" type="ActionExecutionSpecification_Shape">
+            <element href="safety-home-automation.uml#_Qx2kIC1JEeqqpY0lJAt8Mg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Qx8DsS1JEeqqpY0lJAt8Mg" x="40" y="186" width="20" height="61"/>
+          </children>
+          <element href="safety-home-automation.uml#_dbzZIC1HEeqqpY0lJAt8Mg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_db1OUS1HEeqqpY0lJAt8Mg" x="414" y="10" height="366"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_hOwtYC1HEeqqpY0lJAt8Mg" type="Lifeline_Shape">
+          <children xsi:type="notation:DecorationNode" xmi:id="_hOwtYi1HEeqqpY0lJAt8Mg" type="Lifeline_NameLabel"/>
+          <element href="safety-home-automation.uml#_hOuRIC1HEeqqpY0lJAt8Mg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_hOwtYS1HEeqqpY0lJAt8Mg" x="694" y="10" height="366"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_xZ_l4C1HEeqqpY0lJAt8Mg" type="Lifeline_Shape">
+          <children xsi:type="notation:DecorationNode" xmi:id="_xZ_l4i1HEeqqpY0lJAt8Mg" type="Lifeline_NameLabel"/>
+          <children xsi:type="notation:Shape" xmi:id="_XLn_EC1IEeqqpY0lJAt8Mg" type="ActionExecutionSpecification_Shape">
+            <element href="safety-home-automation.uml#_XLjGkC1IEeqqpY0lJAt8Mg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_XLn_ES1IEeqqpY0lJAt8Mg" x="40" y="145" width="20" height="41"/>
+          </children>
+          <element href="safety-home-automation.uml#_xZ9JoC1HEeqqpY0lJAt8Mg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_xZ_l4S1HEeqqpY0lJAt8Mg" x="274" y="10" height="366"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_UtK_oC1IEeqqpY0lJAt8Mg" type="Lifeline_Shape">
+          <children xsi:type="notation:DecorationNode" xmi:id="_UtK_oi1IEeqqpY0lJAt8Mg" type="Lifeline_NameLabel"/>
+          <children xsi:type="notation:Shape" xmi:id="_RkjMYC1JEeqqpY0lJAt8Mg" type="ActionExecutionSpecification_Shape">
+            <element href="safety-home-automation.uml#_Rkds0C1JEeqqpY0lJAt8Mg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_RkjMYS1JEeqqpY0lJAt8Mg" x="40" y="186" width="20" height="100"/>
+          </children>
+          <element href="safety-home-automation.uml#_UtGuMC1IEeqqpY0lJAt8Mg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_UtK_oS1IEeqqpY0lJAt8Mg" x="554" y="10" height="367"/>
+        </children>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_jWrVxC0_EeqqpY0lJAt8Mg"/>
+      </children>
+      <element href="safety-home-automation.uml#_jWiy4C0_EeqqpY0lJAt8Mg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_jWrVxS0_EeqqpY0lJAt8Mg"/>
+    </children>
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_jWrVxi0_EeqqpY0lJAt8Mg" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_jWrVxy0_EeqqpY0lJAt8Mg"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_jWrVyC0_EeqqpY0lJAt8Mg" diagramKindId="org.eclipse.papyrus.sysml16.diagram.sequence">
+      <owner href="safety-home-automation.uml#_jKmBkC0_EeqqpY0lJAt8Mg"/>
+    </styles>
+    <element href="safety-home-automation.uml#_jWiy4C0_EeqqpY0lJAt8Mg"/>
+    <edges xsi:type="notation:Connector" xmi:id="_7z7OIC1HEeqqpY0lJAt8Mg" type="Message_FoundEdge" source="_jWrVwS0_EeqqpY0lJAt8Mg" target="_B0WxcC1GEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_7z7OIy1HEeqqpY0lJAt8Mg" type="Message_FoundNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_7z71MC1HEeqqpY0lJAt8Mg" x="1" y="-13"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_7z71MS1HEeqqpY0lJAt8Mg" type="Message_FoundStereotypeLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_7z71Mi1HEeqqpY0lJAt8Mg" x="1" y="-33"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_7z7OIS1HEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_7zzSUC1HEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_7z7OIi1HEeqqpY0lJAt8Mg" points="[-101983, -90100, 679, 620]$[-102662, -90720, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_70wUkC1HEeqqpY0lJAt8Mg" id="(100.0,80.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_70wUkS1HEeqqpY0lJAt8Mg" id="(0.5,0.12568306010928962)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_LkVy4C1IEeqqpY0lJAt8Mg" type="Message_AsynchEdge" source="_B0WxcC1GEeqqpY0lJAt8Mg" target="_xZ_l4C1HEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_LkVy4y1IEeqqpY0lJAt8Mg" type="Message_AsynchNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_LkVy5C1IEeqqpY0lJAt8Mg" x="1" y="-13"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_LkVy5S1IEeqqpY0lJAt8Mg" type="Message_AsynchStereotypeLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_LkVy5i1IEeqqpY0lJAt8Mg" x="1" y="-33"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_LkVy4S1IEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_LkSIgC1IEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_LkVy4i1IEeqqpY0lJAt8Mg" points="[0, 0, -152, 0]$[152, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_LkeVwC1IEeqqpY0lJAt8Mg" id="(0.5,0.3989071038251366)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_LkeVwS1IEeqqpY0lJAt8Mg" id="(0.5,0.3989071038251366)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_bXMnoC1IEeqqpY0lJAt8Mg" type="Message_AsynchEdge" source="_xZ_l4C1HEeqqpY0lJAt8Mg" target="_UtK_oC1IEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_bXMnoy1IEeqqpY0lJAt8Mg" type="Message_AsynchNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_bXMnpC1IEeqqpY0lJAt8Mg" x="61" y="-13"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_bXMnpS1IEeqqpY0lJAt8Mg" type="Message_AsynchStereotypeLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_bXNOsC1IEeqqpY0lJAt8Mg" x="1" y="-33"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_bXMnoS1IEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_bXHvIC1IEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_bXMnoi1IEeqqpY0lJAt8Mg" points="[0, 0, -140, 0]$[140, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_bXWYoC1IEeqqpY0lJAt8Mg" id="(0.5,0.5081967213114754)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_bXWYoS1IEeqqpY0lJAt8Mg" id="(0.5,0.5068119891008175)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_J4LWkC1JEeqqpY0lJAt8Mg" type="Message_AsynchEdge" source="_xZ_l4C1HEeqqpY0lJAt8Mg" target="_db1OUC1HEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_J4LWky1JEeqqpY0lJAt8Mg" type="Message_AsynchNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_J4LWlC1JEeqqpY0lJAt8Mg" x="-12" y="-13"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_J4LWlS1JEeqqpY0lJAt8Mg" type="Message_AsynchStereotypeLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_J4LWli1JEeqqpY0lJAt8Mg" x="1" y="-33"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_J4LWkS1JEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_J4Eo4C1JEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_J4LWki1JEeqqpY0lJAt8Mg" points="[0, 0, -280, 0]$[280, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_J4VHkC1JEeqqpY0lJAt8Mg" id="(0.5,0.5081967213114754)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_J4VuoC1JEeqqpY0lJAt8Mg" id="(0.5,0.5081967213114754)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_bgYjYC1JEeqqpY0lJAt8Mg" type="Message_AsynchEdge" source="_UtK_oC1IEeqqpY0lJAt8Mg" target="_hOwtYC1HEeqqpY0lJAt8Mg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_bgYjYy1JEeqqpY0lJAt8Mg" type="Message_AsynchNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_bgYjZC1JEeqqpY0lJAt8Mg" x="1" y="-13"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_bgYjZS1JEeqqpY0lJAt8Mg" type="Message_AsynchStereotypeLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_bgYjZi1JEeqqpY0lJAt8Mg" x="1" y="-33"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_bgYjYS1JEeqqpY0lJAt8Mg"/>
+      <element href="safety-home-automation.uml#_bgROoC1JEeqqpY0lJAt8Mg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_bgYjYi1JEeqqpY0lJAt8Mg" points="[0, 0, -280, 0]$[280, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_bgjigC1JEeqqpY0lJAt8Mg" id="(0.5,0.779291553133515)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_bgkJkC1JEeqqpY0lJAt8Mg" id="(0.5,0.7814207650273224)"/>
+    </edges>
+  </notation:Diagram>
+</xmi:XMI>

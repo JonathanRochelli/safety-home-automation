@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Blocks="http://www.eclipse.org/papyrus/sysml/1.6/SysML/Blocks" xmlns:Requirements="http://www.eclipse.org/papyrus/sysml/1.6/SysML/Requirements" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http://www.eclipse.org/papyrus/sysml/1.6/SysML/Blocks http://www.eclipse.org/papyrus/sysml/1.6/SysML#//blocks http://www.eclipse.org/papyrus/sysml/1.6/SysML/Requirements http://www.eclipse.org/papyrus/sysml/1.6/SysML#//requirements">
+  <uml:Model xmi:id="_jKmBkC0_EeqqpY0lJAt8Mg" name="Diagram">
+    <packageImport xmi:type="uml:PackageImport" xmi:id="_jOUrAC0_EeqqpY0lJAt8Mg">
+      <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+    </packageImport>
+    <packageImport xmi:type="uml:PackageImport" xmi:id="_jOecAC0_EeqqpY0lJAt8Mg">
+      <importedPackage xmi:type="uml:Package" href="pathmap://SysML16_LIBRARIES/SysML-Standard-Library.uml#SysML.package_packagedElement_Libraries"/>
+    </packageImport>
+    <packagedElement xmi:type="uml:Class" xmi:id="_jU4mAC0_EeqqpY0lJAt8Mg" name="Block13"/>
+    <packagedElement xmi:type="uml:StateMachine" xmi:id="_jV4rkC0_EeqqpY0lJAt8Mg" name="StateMachine">
+      <region xmi:type="uml:Region" xmi:id="_jWCckC0_EeqqpY0lJAt8Mg" name="Region1">
+        <subvertex xmi:type="uml:Pseudostate" xmi:id="_WKdhMC1BEeqqpY0lJAt8Mg" name="Intruder detected"/>
+      </region>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Activity" xmi:id="_jWVXgC0_EeqqpY0lJAt8Mg" name="Activity15"/>
+    <packagedElement xmi:type="uml:Interaction" xmi:id="_jWiy4C0_EeqqpY0lJAt8Mg" name="Sequence Diagram">
+      <lifeline xmi:type="uml:Lifeline" xmi:id="_B0U8QC1GEeqqpY0lJAt8Mg" name="Distance sensor" coveredBy="_7z28sC1HEeqqpY0lJAt8Mg _LkSIgS1IEeqqpY0lJAt8Mg _Grz9sC1IEeqqpY0lJAt8Mg _-23asC1HEeqqpY0lJAt8Mg"/>
+      <lifeline xmi:type="uml:Lifeline" xmi:id="_dbzZIC1HEeqqpY0lJAt8Mg" name="Alarm" coveredBy="_J4FP8S1JEeqqpY0lJAt8Mg _Qx2kIS1JEeqqpY0lJAt8Mg _Qx2kIC1JEeqqpY0lJAt8Mg"/>
+      <lifeline xmi:type="uml:Lifeline" xmi:id="_hOuRIC1HEeqqpY0lJAt8Mg" name="Camera" coveredBy="_bgScwC1JEeqqpY0lJAt8Mg"/>
+      <lifeline xmi:type="uml:Lifeline" xmi:id="_xZ9JoC1HEeqqpY0lJAt8Mg" name="Arduino" coveredBy="_LkSIgi1IEeqqpY0lJAt8Mg _bXHvIS1IEeqqpY0lJAt8Mg _J4FP8C1JEeqqpY0lJAt8Mg _XLjGkC1IEeqqpY0lJAt8Mg"/>
+      <lifeline xmi:type="uml:Lifeline" xmi:id="_UtGuMC1IEeqqpY0lJAt8Mg" name="Raspberry pi" coveredBy="_bXIWMC1IEeqqpY0lJAt8Mg _bgR1sC1JEeqqpY0lJAt8Mg _Rkds0C1JEeqqpY0lJAt8Mg"/>
+      <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_7z28sC1HEeqqpY0lJAt8Mg" name="Message5ReceiveEvent" covered="_B0U8QC1GEeqqpY0lJAt8Mg" message="_7zzSUC1HEeqqpY0lJAt8Mg"/>
+      <fragment xmi:type="uml:ActionExecutionSpecification" xmi:id="_-23asC1HEeqqpY0lJAt8Mg" name="ActionExecutionSpecification7" covered="_B0U8QC1GEeqqpY0lJAt8Mg" start="_7z28sC1HEeqqpY0lJAt8Mg"/>
+      <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_LkSIgS1IEeqqpY0lJAt8Mg" name="Message9SendEvent" covered="_B0U8QC1GEeqqpY0lJAt8Mg" message="_LkSIgC1IEeqqpY0lJAt8Mg"/>
+      <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_LkSIgi1IEeqqpY0lJAt8Mg" name="Message9ReceiveEvent" covered="_xZ9JoC1HEeqqpY0lJAt8Mg" message="_LkSIgC1IEeqqpY0lJAt8Mg"/>
+      <fragment xmi:type="uml:ActionExecutionSpecification" xmi:id="_XLjGkC1IEeqqpY0lJAt8Mg" name="ActionExecutionSpecification13" covered="_xZ9JoC1HEeqqpY0lJAt8Mg" finish="_J4FP8C1JEeqqpY0lJAt8Mg" start="_LkSIgi1IEeqqpY0lJAt8Mg"/>
+      <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_bXHvIS1IEeqqpY0lJAt8Mg" name="Message15SendEvent" covered="_xZ9JoC1HEeqqpY0lJAt8Mg" message="_bXHvIC1IEeqqpY0lJAt8Mg"/>
+      <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_J4FP8C1JEeqqpY0lJAt8Mg" name="Message18SendEvent" covered="_xZ9JoC1HEeqqpY0lJAt8Mg" message="_J4Eo4C1JEeqqpY0lJAt8Mg"/>
+      <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_bXIWMC1IEeqqpY0lJAt8Mg" name="Message15ReceiveEvent" covered="_UtGuMC1IEeqqpY0lJAt8Mg" message="_bXHvIC1IEeqqpY0lJAt8Mg"/>
+      <fragment xmi:type="uml:ActionExecutionSpecification" xmi:id="_Rkds0C1JEeqqpY0lJAt8Mg" name="ActionExecutionSpecification22" covered="_UtGuMC1IEeqqpY0lJAt8Mg" finish="_bgR1sC1JEeqqpY0lJAt8Mg" start="_bXIWMC1IEeqqpY0lJAt8Mg"/>
+      <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_J4FP8S1JEeqqpY0lJAt8Mg" name="Message18ReceiveEvent" covered="_dbzZIC1HEeqqpY0lJAt8Mg" message="_J4Eo4C1JEeqqpY0lJAt8Mg"/>
+      <fragment xmi:type="uml:ActionExecutionSpecification" xmi:id="_Qx2kIC1JEeqqpY0lJAt8Mg" name="ActionExecutionSpecification22" covered="_dbzZIC1HEeqqpY0lJAt8Mg" finish="_Qx2kIS1JEeqqpY0lJAt8Mg" start="_J4FP8S1JEeqqpY0lJAt8Mg"/>
+      <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_Qx2kIS1JEeqqpY0lJAt8Mg" name="ActionExecutionSpecification22Finish" covered="_dbzZIC1HEeqqpY0lJAt8Mg" execution="_Qx2kIC1JEeqqpY0lJAt8Mg"/>
+      <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_bgR1sC1JEeqqpY0lJAt8Mg" name="Message24SendEvent" covered="_UtGuMC1IEeqqpY0lJAt8Mg" message="_bgROoC1JEeqqpY0lJAt8Mg"/>
+      <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_bgScwC1JEeqqpY0lJAt8Mg" name="Message24ReceiveEvent" covered="_hOuRIC1HEeqqpY0lJAt8Mg" message="_bgROoC1JEeqqpY0lJAt8Mg"/>
+      <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_Grz9sC1IEeqqpY0lJAt8Mg" name="Message5ReceiveEvent" covered="_B0U8QC1GEeqqpY0lJAt8Mg" message="_7zzSUC1HEeqqpY0lJAt8Mg"/>
+      <message xmi:type="uml:Message" xmi:id="_7zzSUC1HEeqqpY0lJAt8Mg" name="Intrusion" messageSort="asynchCall" receiveEvent="_Grz9sC1IEeqqpY0lJAt8Mg"/>
+      <message xmi:type="uml:Message" xmi:id="_LkSIgC1IEeqqpY0lJAt8Mg" name="Door open" messageSort="asynchCall" receiveEvent="_LkSIgi1IEeqqpY0lJAt8Mg" sendEvent="_LkSIgS1IEeqqpY0lJAt8Mg"/>
+      <message xmi:type="uml:Message" xmi:id="_bXHvIC1IEeqqpY0lJAt8Mg" name="Send alert message" messageSort="asynchCall" receiveEvent="_bXIWMC1IEeqqpY0lJAt8Mg" sendEvent="_bXHvIS1IEeqqpY0lJAt8Mg"/>
+      <message xmi:type="uml:Message" xmi:id="_J4Eo4C1JEeqqpY0lJAt8Mg" name="Start alarm" messageSort="asynchCall" receiveEvent="_J4FP8S1JEeqqpY0lJAt8Mg" sendEvent="_J4FP8C1JEeqqpY0lJAt8Mg"/>
+      <message xmi:type="uml:Message" xmi:id="_bgROoC1JEeqqpY0lJAt8Mg" name="Start recording" messageSort="asynchCall" receiveEvent="_bgScwC1JEeqqpY0lJAt8Mg" sendEvent="_bgR1sC1JEeqqpY0lJAt8Mg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_jWuZEC0_EeqqpY0lJAt8Mg" name="Block17"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_ujcwMC0_EeqqpY0lJAt8Mg" name="Raspberry pi 3 Model B">
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_SPP5wi1KEeqqpY0lJAt8Mg" name="arduino" type="_0aU4cC1JEeqqpY0lJAt8Mg" aggregation="composite" association="_SPPSsC1KEeqqpY0lJAt8Mg">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_SPQg0C1KEeqqpY0lJAt8Mg"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_SPQg0S1KEeqqpY0lJAt8Mg" value="1"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_bscM8i1KEeqqpY0lJAt8Mg" name="raspberry" type="_8F7SMC1JEeqqpY0lJAt8Mg" association="_bsa-0C1KEeqqpY0lJAt8Mg">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_bsc0AC1KEeqqpY0lJAt8Mg"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_bsc0AS1KEeqqpY0lJAt8Mg" value="1"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_fOuA4i1KEeqqpY0lJAt8Mg" name="raspberry" type="_BAwNcC1KEeqqpY0lJAt8Mg" association="_fOtZ0C1KEeqqpY0lJAt8Mg">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_fOun8C1KEeqqpY0lJAt8Mg"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_fOun8S1KEeqqpY0lJAt8Mg" value="1"/>
+      </ownedAttribute>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Actor" xmi:id="_ydHegC1BEeqqpY0lJAt8Mg" name="Actor"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_0BhQgC1BEeqqpY0lJAt8Mg" name="Receive a message when intuder is inside the house"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_G18_4C1CEeqqpY0lJAt8Mg" name="See in real time inside the house">
+      <generalization xmi:type="uml:Generalization" xmi:id="_itWIEC1DEeqqpY0lJAt8Mg" general="_fiWywC1DEeqqpY0lJAt8Mg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_RMBb0C1CEeqqpY0lJAt8Mg" memberEnd="_RMIJgC1CEeqqpY0lJAt8Mg _RMIJgS1CEeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_RMG7YC1CEeqqpY0lJAt8Mg" source="org.eclipse.papyrus">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RMHicC1CEeqqpY0lJAt8Mg" key="nature" value="UML_Nature"/>
+      </eAnnotations>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_RMIJgC1CEeqqpY0lJAt8Mg" name="receive a message when intuder is inside" type="_0BhQgC1BEeqqpY0lJAt8Mg" association="_RMBb0C1CEeqqpY0lJAt8Mg"/>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_RMIJgS1CEeqqpY0lJAt8Mg" name="actor" type="_ydHegC1BEeqqpY0lJAt8Mg" association="_RMBb0C1CEeqqpY0lJAt8Mg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_ShHmgC1CEeqqpY0lJAt8Mg" memberEnd="_ShINkS1CEeqqpY0lJAt8Mg _ShINki1CEeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ShHmgS1CEeqqpY0lJAt8Mg" source="org.eclipse.papyrus">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ShINkC1CEeqqpY0lJAt8Mg" key="nature" value="UML_Nature"/>
+      </eAnnotations>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_ShINkS1CEeqqpY0lJAt8Mg" name="see in real time inside" type="_G18_4C1CEeqqpY0lJAt8Mg" association="_ShHmgC1CEeqqpY0lJAt8Mg"/>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_ShINki1CEeqqpY0lJAt8Mg" name="actor" type="_ydHegC1BEeqqpY0lJAt8Mg" association="_ShHmgC1CEeqqpY0lJAt8Mg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_cpu1QC1CEeqqpY0lJAt8Mg" name="Watch a video of the intrusion (20 minutes)">
+      <generalization xmi:type="uml:Generalization" xmi:id="_h0OHsC1DEeqqpY0lJAt8Mg" general="_fiWywC1DEeqqpY0lJAt8Mg"/>
+      <include xmi:type="uml:Include" xmi:id="_NijlUC1DEeqqpY0lJAt8Mg" addition="_L5q78C1DEeqqpY0lJAt8Mg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_-PFbQC1CEeqqpY0lJAt8Mg" memberEnd="_-PGpYC1CEeqqpY0lJAt8Mg _-PGpYS1CEeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_-PGCUC1CEeqqpY0lJAt8Mg" source="org.eclipse.papyrus">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_-PGCUS1CEeqqpY0lJAt8Mg" key="nature" value="UML_Nature"/>
+      </eAnnotations>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_-PGpYC1CEeqqpY0lJAt8Mg" name="watch a video of the intrusion (20 minutes)" type="_cpu1QC1CEeqqpY0lJAt8Mg" association="_-PFbQC1CEeqqpY0lJAt8Mg"/>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_-PGpYS1CEeqqpY0lJAt8Mg" name="actor" type="_ydHegC1BEeqqpY0lJAt8Mg" association="_-PFbQC1CEeqqpY0lJAt8Mg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_L5q78C1DEeqqpY0lJAt8Mg" name="Recording"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_fiWywC1DEeqqpY0lJAt8Mg" name="Monitor"/>
+    <packagedElement xmi:type="uml:Actor" xmi:id="_l6uqEC1DEeqqpY0lJAt8Mg" name="Intuder"/>
+    <packagedElement xmi:type="uml:Association" xmi:id="_n6ka4C1DEeqqpY0lJAt8Mg" memberEnd="_n6lpAC1DEeqqpY0lJAt8Mg _n6lpAS1DEeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_n6lB8C1DEeqqpY0lJAt8Mg" source="org.eclipse.papyrus">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_n6lB8S1DEeqqpY0lJAt8Mg" key="nature" value="UML_Nature"/>
+      </eAnnotations>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_n6lpAC1DEeqqpY0lJAt8Mg" name="intuder" type="_l6uqEC1DEeqqpY0lJAt8Mg" association="_n6ka4C1DEeqqpY0lJAt8Mg"/>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_n6lpAS1DEeqqpY0lJAt8Mg" name="monitor" type="_fiWywC1DEeqqpY0lJAt8Mg" association="_n6ka4C1DEeqqpY0lJAt8Mg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_-a50QC1DEeqqpY0lJAt8Mg" name="System">
+      <nestedClassifier xmi:type="uml:Class" xmi:id="_OfsGgC1EEeqqpY0lJAt8Mg" name="Ready 24/7"/>
+      <nestedClassifier xmi:type="uml:Class" xmi:id="_OzUiQC1GEeqqpY0lJAt8Mg" name="Sound"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_zeDPsC1EEeqqpY0lJAt8Mg" name="Cameras"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_FQ5mQC1FEeqqpY0lJAt8Mg" name="Sensor"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_PVsE8C1FEeqqpY0lJAt8Mg" client="_zeDPsC1EEeqqpY0lJAt8Mg" supplier="_nX1EwC1EEeqqpY0lJAt8Mg"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_P_w8sC1FEeqqpY0lJAt8Mg" client="_zeDPsC1EEeqqpY0lJAt8Mg" supplier="_gl76MC1EEeqqpY0lJAt8Mg"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_hGX4UC1FEeqqpY0lJAt8Mg" name="" client="_FQ5mQC1FEeqqpY0lJAt8Mg" supplier="_gl76MC1EEeqqpY0lJAt8Mg"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_nX1EwC1EEeqqpY0lJAt8Mg" name="Live"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_GPgRoC1HEeqqpY0lJAt8Mg" name="Alarm"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_U5KpsC1HEeqqpY0lJAt8Mg" name="" client="_GPgRoC1HEeqqpY0lJAt8Mg" supplier="_OzUiQC1GEeqqpY0lJAt8Mg"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_0aU4cC1JEeqqpY0lJAt8Mg" name="Arduino">
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_Obuk0i1KEeqqpY0lJAt8Mg" name="distance sensor" type="_52lFwC1JEeqqpY0lJAt8Mg" aggregation="composite" association="_Obt9wC1KEeqqpY0lJAt8Mg">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_ObvL4C1KEeqqpY0lJAt8Mg"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_ObvL4S1KEeqqpY0lJAt8Mg" value="1"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_PD5YEi1KEeqqpY0lJAt8Mg" name="alarm" type="_3TgsEC1JEeqqpY0lJAt8Mg" aggregation="composite" association="_PD4xAC1KEeqqpY0lJAt8Mg">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_PD5YEy1KEeqqpY0lJAt8Mg"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_PD5YFC1KEeqqpY0lJAt8Mg" value="1"/>
+      </ownedAttribute>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_3TgsEC1JEeqqpY0lJAt8Mg" name="Alarm"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_52lFwC1JEeqqpY0lJAt8Mg" name="Distance sensor"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_8F7SMC1JEeqqpY0lJAt8Mg" name="Raspberry pi 3 Model B">
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_ii9_4S1KEeqqpY0lJAt8Mg" name="live camera" type="_C6O3kC1KEeqqpY0lJAt8Mg" aggregation="composite" association="_ii8xwC1KEeqqpY0lJAt8Mg">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_ii9_4i1KEeqqpY0lJAt8Mg"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_ii9_4y1KEeqqpY0lJAt8Mg" value="1"/>
+      </ownedAttribute>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_95HHEC1JEeqqpY0lJAt8Mg" name="Recording camera"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_BAwNcC1KEeqqpY0lJAt8Mg" name="Raspberry pi 3 Model B">
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_jFca0i1KEeqqpY0lJAt8Mg" name="recording camera" type="_95HHEC1JEeqqpY0lJAt8Mg" aggregation="composite" association="_jFbzwC1KEeqqpY0lJAt8Mg">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_jFdB4C1KEeqqpY0lJAt8Mg"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_jFdB4S1KEeqqpY0lJAt8Mg" value="1"/>
+      </ownedAttribute>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_C6O3kC1KEeqqpY0lJAt8Mg" name="Live camera"/>
+    <packagedElement xmi:type="uml:Association" xmi:id="_Obt9wC1KEeqqpY0lJAt8Mg" memberEnd="_Obuk0i1KEeqqpY0lJAt8Mg _Obvy8C1KEeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Obuk0C1KEeqqpY0lJAt8Mg" source="org.eclipse.papyrus">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Obuk0S1KEeqqpY0lJAt8Mg" key="nature" value="UML_Nature"/>
+      </eAnnotations>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_Obvy8C1KEeqqpY0lJAt8Mg" name="arduino" type="_0aU4cC1JEeqqpY0lJAt8Mg" association="_Obt9wC1KEeqqpY0lJAt8Mg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_PD4xAC1KEeqqpY0lJAt8Mg" memberEnd="_PD5YEi1KEeqqpY0lJAt8Mg _PD5YFS1KEeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_PD5YEC1KEeqqpY0lJAt8Mg" source="org.eclipse.papyrus">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PD5YES1KEeqqpY0lJAt8Mg" key="nature" value="UML_Nature"/>
+      </eAnnotations>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_PD5YFS1KEeqqpY0lJAt8Mg" name="arduino" type="_0aU4cC1JEeqqpY0lJAt8Mg" association="_PD4xAC1KEeqqpY0lJAt8Mg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_SPPSsC1KEeqqpY0lJAt8Mg" memberEnd="_SPP5wi1KEeqqpY0lJAt8Mg _SPQg0i1KEeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_SPP5wC1KEeqqpY0lJAt8Mg" source="org.eclipse.papyrus">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_SPP5wS1KEeqqpY0lJAt8Mg" key="nature" value="UML_Nature"/>
+      </eAnnotations>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_SPQg0i1KEeqqpY0lJAt8Mg" name="raspberry" type="_ujcwMC0_EeqqpY0lJAt8Mg" association="_SPPSsC1KEeqqpY0lJAt8Mg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_bsa-0C1KEeqqpY0lJAt8Mg" memberEnd="_bscM8i1KEeqqpY0lJAt8Mg _bsc0Ai1KEeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_bscM8C1KEeqqpY0lJAt8Mg" source="org.eclipse.papyrus">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_bscM8S1KEeqqpY0lJAt8Mg" key="nature" value="UML_Nature"/>
+      </eAnnotations>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_bsc0Ai1KEeqqpY0lJAt8Mg" name="raspberry" type="_ujcwMC0_EeqqpY0lJAt8Mg" association="_bsa-0C1KEeqqpY0lJAt8Mg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_fOtZ0C1KEeqqpY0lJAt8Mg" memberEnd="_fOuA4i1KEeqqpY0lJAt8Mg _fOun8i1KEeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_fOuA4C1KEeqqpY0lJAt8Mg" source="org.eclipse.papyrus">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_fOuA4S1KEeqqpY0lJAt8Mg" key="nature" value="UML_Nature"/>
+      </eAnnotations>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_fOun8i1KEeqqpY0lJAt8Mg" name="raspberry" type="_ujcwMC0_EeqqpY0lJAt8Mg" association="_fOtZ0C1KEeqqpY0lJAt8Mg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_ii8xwC1KEeqqpY0lJAt8Mg" memberEnd="_ii9_4S1KEeqqpY0lJAt8Mg _ii-m8C1KEeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ii9Y0C1KEeqqpY0lJAt8Mg" source="org.eclipse.papyrus">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ii9_4C1KEeqqpY0lJAt8Mg" key="nature" value="UML_Nature"/>
+      </eAnnotations>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_ii-m8C1KEeqqpY0lJAt8Mg" name="raspberry" type="_8F7SMC1JEeqqpY0lJAt8Mg" association="_ii8xwC1KEeqqpY0lJAt8Mg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_jFbzwC1KEeqqpY0lJAt8Mg" memberEnd="_jFca0i1KEeqqpY0lJAt8Mg _jFdB4i1KEeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_jFca0C1KEeqqpY0lJAt8Mg" source="org.eclipse.papyrus">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_jFca0S1KEeqqpY0lJAt8Mg" key="nature" value="UML_Nature"/>
+      </eAnnotations>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_jFdB4i1KEeqqpY0lJAt8Mg" name="raspberry" type="_BAwNcC1KEeqqpY0lJAt8Mg" association="_jFbzwC1KEeqqpY0lJAt8Mg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_gl76MC1EEeqqpY0lJAt8Mg" name="Recording"/>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_jLs00C0_EeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_jLtb4C0_EeqqpY0lJAt8Mg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/sysml/1.6/SysML#/"/>
+      </eAnnotations>
+      <appliedProfile xmi:type="uml:Profile" href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML"/>
+    </profileApplication>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_jORAoC0_EeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_jORnsC0_EeqqpY0lJAt8Mg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/sysml/1.6/SysML#//activities"/>
+      </eAnnotations>
+      <appliedProfile xmi:type="uml:Profile" href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Activities"/>
+    </profileApplication>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_jORnsS0_EeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_jORnsi0_EeqqpY0lJAt8Mg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/sysml/1.6/SysML#//allocations"/>
+      </eAnnotations>
+      <appliedProfile xmi:type="uml:Profile" href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Allocations"/>
+    </profileApplication>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_jOSOwC0_EeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_jOSOwS0_EeqqpY0lJAt8Mg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/sysml/1.6/SysML#//blocks"/>
+      </eAnnotations>
+      <appliedProfile xmi:type="uml:Profile" href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Blocks"/>
+    </profileApplication>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_jOSOwi0_EeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_jOSOwy0_EeqqpY0lJAt8Mg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/sysml/1.6/SysML#//constraintblocks"/>
+      </eAnnotations>
+      <appliedProfile xmi:type="uml:Profile" href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_ConstraintBlocks"/>
+    </profileApplication>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_jOSOxC0_EeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_jOS10C0_EeqqpY0lJAt8Mg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/sysml/1.6/SysML#//deprecatedelements"/>
+      </eAnnotations>
+      <appliedProfile xmi:type="uml:Profile" href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_DeprecatedElements"/>
+    </profileApplication>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_jOS10S0_EeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_jOS10i0_EeqqpY0lJAt8Mg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/sysml/1.6/SysML#//modelelements"/>
+      </eAnnotations>
+      <appliedProfile xmi:type="uml:Profile" href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_ModelElements"/>
+    </profileApplication>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_jOS10y0_EeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_jOS11C0_EeqqpY0lJAt8Mg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/sysml/1.6/SysML#//portsandflows"/>
+      </eAnnotations>
+      <appliedProfile xmi:type="uml:Profile" href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Ports_u0026Flows"/>
+    </profileApplication>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_jOTc4C0_EeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_jOTc4S0_EeqqpY0lJAt8Mg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/sysml/1.6/SysML#//requirements"/>
+      </eAnnotations>
+      <appliedProfile xmi:type="uml:Profile" href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Requirements"/>
+    </profileApplication>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_jOTc4i0_EeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_jOUD8C0_EeqqpY0lJAt8Mg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/uml2/5.0.0/UML/Profile/Standard#/"/>
+      </eAnnotations>
+      <appliedProfile xmi:type="uml:Profile" href="pathmap://UML_PROFILES/Standard.profile.uml#_0"/>
+    </profileApplication>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_D7-XgC1BEeqqpY0lJAt8Mg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_D7--kC1BEeqqpY0lJAt8Mg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="pathmap://PAPYRUS_ACTIONLANGUAGE_PROFILE/ActionLanguage-Profile.profile.uml#_Kv8EIKFXEeS_KNX0nfvIVQ"/>
+      </eAnnotations>
+      <appliedProfile xmi:type="uml:Profile" href="pathmap://PAPYRUS_ACTIONLANGUAGE_PROFILE/ActionLanguage-Profile.profile.uml#ActionLanguage"/>
+    </profileApplication>
+  </uml:Model>
+  <Blocks:Block xmi:id="_jVK54C0_EeqqpY0lJAt8Mg" base_Class="_jU4mAC0_EeqqpY0lJAt8Mg"/>
+  <Blocks:Block xmi:id="_jWzRkC0_EeqqpY0lJAt8Mg" base_Class="_jWuZEC0_EeqqpY0lJAt8Mg"/>
+  <Blocks:Block xmi:id="_ujhosC0_EeqqpY0lJAt8Mg" base_Class="_ujcwMC0_EeqqpY0lJAt8Mg"/>
+  <Requirements:Requirement xmi:id="_-a-swC1DEeqqpY0lJAt8Mg" base_NamedElement="_-a50QC1DEeqqpY0lJAt8Mg" base_Class="_-a50QC1DEeqqpY0lJAt8Mg"/>
+  <Requirements:Requirement xmi:id="_OfvJ0C1EEeqqpY0lJAt8Mg" base_NamedElement="_OfsGgC1EEeqqpY0lJAt8Mg" id="E1" text="The system have to be ready everytime." base_Class="_OfsGgC1EEeqqpY0lJAt8Mg"/>
+  <Requirements:Requirement xmi:id="_gl9vYC1EEeqqpY0lJAt8Mg" base_NamedElement="_gl76MC1EEeqqpY0lJAt8Mg" id="E3" text="Recording when an intrude is detected." base_Class="_gl76MC1EEeqqpY0lJAt8Mg"/>
+  <Requirements:Requirement xmi:id="_nX4IEC1EEeqqpY0lJAt8Mg" base_NamedElement="_nX1EwC1EEeqqpY0lJAt8Mg" id="E4" text="The user can see inside the home." base_Class="_nX1EwC1EEeqqpY0lJAt8Mg"/>
+  <Requirements:Requirement xmi:id="_zeG6EC1EEeqqpY0lJAt8Mg" base_NamedElement="_zeDPsC1EEeqqpY0lJAt8Mg" id="D3" text="Cameras must be install inside the room" base_Class="_zeDPsC1EEeqqpY0lJAt8Mg"/>
+  <Requirements:Requirement xmi:id="_FQ9QoC1FEeqqpY0lJAt8Mg" base_NamedElement="_FQ5mQC1FEeqqpY0lJAt8Mg" id="D2" text="Sensor must be install behind the door to detect intruder." base_Class="_FQ5mQC1FEeqqpY0lJAt8Mg"/>
+  <Requirements:DeriveReqt xmi:id="_PVwWYC1FEeqqpY0lJAt8Mg" base_DirectedRelationship="_PVsE8C1FEeqqpY0lJAt8Mg" base_Abstraction="_PVsE8C1FEeqqpY0lJAt8Mg"/>
+  <Requirements:DeriveReqt xmi:id="_P_yx4C1FEeqqpY0lJAt8Mg" base_DirectedRelationship="_P_w8sC1FEeqqpY0lJAt8Mg" base_Abstraction="_P_w8sC1FEeqqpY0lJAt8Mg"/>
+  <Requirements:DeriveReqt xmi:id="_hGaUkC1FEeqqpY0lJAt8Mg" base_DirectedRelationship="_hGX4UC1FEeqqpY0lJAt8Mg" base_Abstraction="_hGX4UC1FEeqqpY0lJAt8Mg"/>
+  <Requirements:Requirement xmi:id="_OzZawC1GEeqqpY0lJAt8Mg" base_NamedElement="_OzUiQC1GEeqqpY0lJAt8Mg" id="E2" text="Sound when intruder is inside." base_Class="_OzUiQC1GEeqqpY0lJAt8Mg"/>
+  <Requirements:Requirement xmi:id="_GPiG0C1HEeqqpY0lJAt8Mg" base_NamedElement="_GPgRoC1HEeqqpY0lJAt8Mg" id="D1" text="Alarm safety house" base_Class="_GPgRoC1HEeqqpY0lJAt8Mg"/>
+  <Requirements:DeriveReqt xmi:id="_U5Me4C1HEeqqpY0lJAt8Mg" base_DirectedRelationship="_U5KpsC1HEeqqpY0lJAt8Mg" base_Abstraction="_U5KpsC1HEeqqpY0lJAt8Mg"/>
+  <Blocks:Block xmi:id="_0aXUsC1JEeqqpY0lJAt8Mg" base_Class="_0aU4cC1JEeqqpY0lJAt8Mg"/>
+  <Blocks:Block xmi:id="_3TihQC1JEeqqpY0lJAt8Mg" base_Class="_3TgsEC1JEeqqpY0lJAt8Mg"/>
+  <Blocks:Block xmi:id="_52oJEC1JEeqqpY0lJAt8Mg" base_Class="_52lFwC1JEeqqpY0lJAt8Mg"/>
+  <Blocks:Block xmi:id="_8F9HYC1JEeqqpY0lJAt8Mg" base_Class="_8F7SMC1JEeqqpY0lJAt8Mg"/>
+  <Blocks:Block xmi:id="_95I8QC1JEeqqpY0lJAt8Mg" base_Class="_95HHEC1JEeqqpY0lJAt8Mg"/>
+  <Blocks:Block xmi:id="_BAyCoC1KEeqqpY0lJAt8Mg" base_Class="_BAwNcC1KEeqqpY0lJAt8Mg"/>
+  <Blocks:Block xmi:id="_C6QFsC1KEeqqpY0lJAt8Mg" base_Class="_C6O3kC1KEeqqpY0lJAt8Mg"/>
+</xmi:XMI>
