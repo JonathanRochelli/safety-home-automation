@@ -31,7 +31,21 @@ This code is to manage all the sensors linked to the arduino (Distance sensor an
 ### Python
 This code is to automatically send a message when a intruder is detected
 ```sh
-//Python code here
+$ pip install fbchat
+```
+```sh
+# -*- coding: UTF-8 -*-
+
+from fbchat import Client
+from fbchat.models import *
+
+client = Client("<email>", "<password>")
+
+print("Own id: {}".format(client.uid))
+
+client.send(Message(text="Hi me!"), thread_id=client.uid, thread_type=ThreadType.USER)
+
+client.logout()
 ```
 
 ### HTML/CSS
