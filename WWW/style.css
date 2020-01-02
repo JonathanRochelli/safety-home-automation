@@ -1,0 +1,52 @@
+body {
+ padding: 0.3%;
+ font-family: Georgia, "Times New Roman",
+ Times, serif;
+ color: purple;
+ background-color: #d8da3d ;
+ width: 95%;
+ text-align: center;
+}
+
+section.video-surveillance {
+ display: flex; /* or inline-flex */
+ justify-content: space-around;
+ display: inline-block;
+}
+ 
+h1 {
+ font-family: Helvetica, Geneva, Arial,
+ SunSans-Regular, sans-serif ;
+ margin-top: 1em;
+}
+
+img.stream {
+ padding: 1%;
+}
+
+
+@media only screen and (min-width: 800px){
+ 
+ section.video-surveillance {
+ flex-direction: row ;
+ }
+ 
+ img.stream {
+ max-width: 45% ;
+ height: auto;
+ }
+
+}
+
+@media only screen and (max-width: 800px){
+ 
+ section.video-surveillance {
+ flex-direction: column ;
+ }
+ 
+ img.stream {
+ max-width: 95%;
+ height: auto;
+ }
+ 
+}
