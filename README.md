@@ -5,16 +5,16 @@ This directory contains informations and code to create a video surveillance, al
 ## Hardware
 
 The hardware use to make this system is as follow :
-- One Arduino (at least Uno),
+- One Arduino (at least Uno),  
 ![alt text](Images/Arduino.jpg)
-- Ultrasonic sensor to determine the distance,
+- Ultrasonic sensor to determine the distance,  
 ![alt text](Images/Ultrasonic.png)
-- Speaker,
+- Speaker,  
 ![alt text](http://url/to/img.png)
-- One Raspberry Pi (at least 3 Model B) to manage the system,
-- One Raspberry Pi for each camera,
+- One Raspberry Pi (at least 3 Model B) to manage the system,  
+- One Raspberry Pi for each camera,  
 ![alt text](Images/Raspberry.jpg)
-- Raspberry Pi compatible cameras.
+- Raspberry Pi compatible cameras    
 ![alt text](Images/Camera.jpg)
 
 ## Software
@@ -33,8 +33,9 @@ This code is to automatically send a message when a intruder is detected
 ```sh
 //Python code here
 ```
-This code is to monitor the room in live
+
 ### HTML/CSS
+This code is to monitor the room in live
 ```sh
 //Arduino code here
 ```
