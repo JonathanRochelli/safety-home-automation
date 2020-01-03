@@ -11,7 +11,7 @@ The hardware use to make this system is as follow :
   
 - Ultrasonic sensor to determine the distance, 
    
-![alt text](Images/Ultrasonic.png)
+![alt text](Images/Ultrasonic.jpg)
   
 - Speaker,  
   
