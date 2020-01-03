@@ -4,7 +4,7 @@ This directory contains informations and code to create a video surveillance, al
 
 ## How it's work
   
-![alt text](SysML/SysML_1_6_Block_Definition_Diagram)  
+![alt text](SysML/SysML_1_6_Block_Definition_Diagram.png)  
   
 ## Hardware
 
