@@ -47,96 +47,36 @@ client.send(Message(text="Hi me!"), thread_id=client.uid, thread_type=ThreadType
 
 client.logout()
 ```
-
+### Apache
+```sh
+$ sudo apt update
+$ sudo apt upgrade
+$ sudo apt update
+```
+```sh
+$ sudo apt install apache2
+```
+```sh
+$ sudo chown -R pi:www-data /var/www/html/
+```
+```sh
+$ sudo chmod -R 770 /var/www/html/
+```
+```sh
+$ wget -O apache.html http://127.0.0.1
+```
+```sh
+$ cat ./apache.html
+```
 ### PHP
 This code is to monitor the room in live
 ```sh
-<!DOCTYPE html>
-<html lang="fr">
-
-<head>
-	<meta charset="utf-8">
-	<title>Nautilus</title>
-	<meta name="viewport" content="width=device-width,initial-scale=1" />
-	<link href="A-style.css" rel="stylesheet" media="all" type="text/css"> 
-</head>
-
-<body class="pi-dashboard">
-
-	<H1>Tableau de bord maison 192.168.1.104 (nautilus)</h1>
-	 
-	<section class="video-surveillance">
-
-		<img name="Galaxy-Tab" class="stream" src="http://192.168.1.104:8082/?action=stream" width="600" height="450" alt="Live Feed" title="Galaxy Tab GT-P6210" />
-
-		<img name="Foscam-FI8905W" class="stream" src= "http://192.168.1.104:8081/?action=stream" width="600" height="450" title="Foscam FI8905W"/>
-		
-	</section>
-	
-	<section class="capteurs">
-
-		<h3>Autres informations</h3>
-		<p>A venir...</p>
-		
-	</section>
- 
-</body>
-</html>
+$ sudo apt install php php-mbstring
 ```
-
-### CSS
 ```sh
-body {
- padding: 0.3%;
- font-family: Georgia, "Times New Roman",
- Times, serif;
- color: purple;
- background-color: #d8da3d ;
- width: 95%;
- text-align: center;
-}
-
-section.video-surveillance {
- display: flex; /* or inline-flex */
- justify-content: space-around;
- display: inline-block;
-}
- 
-h1 {
- font-family: Helvetica, Geneva, Arial,
- SunSans-Regular, sans-serif ;
- margin-top: 1em;
-}
-
-img.stream {
- padding: 1%;
-}
-
-
-@media only screen and (min-width: 800px){
- 
- section.video-surveillance {
- flex-direction: row ;
- }
- 
- img.stream {
- max-width: 45% ;
- height: auto;
- }
-
-}
-
-@media only screen and (max-width: 800px){
- 
- section.video-surveillance {
- flex-direction: column ;
- }
- 
- img.stream {
- max-width: 95%;
- height: auto;
- }
- 
-}
+$ sudo rm /var/www/html/index.html
+```
+```sh
+$ echo "<?php phpinfo(); ?>" > /var/www/html/index.php
 ```
  
