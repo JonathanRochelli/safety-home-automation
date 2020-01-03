@@ -4,7 +4,15 @@ This directory contains informations and code to create a video surveillance, al
 
 ## How it's work
   
-![alt text](SysML/SysML_1_6_Block_Definition_Diagram.PNG)  
+![alt text](SysML/SysML_1_6_Block_Definition_Diagram.PNG) 
+   
+First of all, an Arduino will be placed behind the front door. 
+An ultrasonic sensor that measures the distance will be connected to this Arduino.
+When the door opens, the distance returned by the sensor will be shorter. 
+If the distance is less than a certain limit (calibration) a message will be sent to the Raspberry via the serial port.
+When the Raspberry receives the message it will emit a sound (alarm) on a speaker connected by jack.
+He will then send an HTTP request for the second Raspberry wich controls the camera to ask him to activate it.
+The second Raspberry will then start recording for a few minutes.
   
 ## Hardware
 
