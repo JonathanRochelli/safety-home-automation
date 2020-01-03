@@ -2,6 +2,10 @@
 
 This directory contains informations and code to create a video surveillance, alarm and information system in case of home intrusion.
 
+## How it's work
+  
+![alt text](SysML/SysML_1_6_Block_Definition_Diagram)  
+  
 ## Hardware
 
 The hardware use to make this system is as follow :
@@ -32,11 +36,6 @@ The hardware use to make this system is as follow :
 
 Each Raspberry Pi must have Raspbian installed. You can choose an other OS but Raspbian is advisable.
 
-### Arduino
-This code is to manage all the sensors linked to the arduino (Distance sensor and alarm)
-```sh
-//Arduino code here
-```
 ### Python
 This code is to automatically send a message when a intruder is detected
 ```sh
