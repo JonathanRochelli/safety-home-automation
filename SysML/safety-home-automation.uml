@@ -55,6 +55,10 @@
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_fOun8C1KEeqqpY0lJAt8Mg"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_fOun8S1KEeqqpY0lJAt8Mg" value="1"/>
       </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_PD5YEi1KEeqqpY0lJAt8Mg" name="alarm" type="_3TgsEC1JEeqqpY0lJAt8Mg" aggregation="composite" association="_PD4xAC1KEeqqpY0lJAt8Mg">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_PD5YEy1KEeqqpY0lJAt8Mg"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_PD5YFC1KEeqqpY0lJAt8Mg" value="1"/>
+      </ownedAttribute>
     </packagedElement>
     <packagedElement xmi:type="uml:Actor" xmi:id="_ydHegC1BEeqqpY0lJAt8Mg" name="Actor"/>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_0BhQgC1BEeqqpY0lJAt8Mg" name="Receive a message when intuder is inside the house"/>
@@ -113,10 +117,6 @@
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_ObvL4C1KEeqqpY0lJAt8Mg"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_ObvL4S1KEeqqpY0lJAt8Mg" value="1"/>
       </ownedAttribute>
-      <ownedAttribute xmi:type="uml:Property" xmi:id="_PD5YEi1KEeqqpY0lJAt8Mg" name="alarm" type="_3TgsEC1JEeqqpY0lJAt8Mg" aggregation="composite" association="_PD4xAC1KEeqqpY0lJAt8Mg">
-        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_PD5YEy1KEeqqpY0lJAt8Mg"/>
-        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_PD5YFC1KEeqqpY0lJAt8Mg" value="1"/>
-      </ownedAttribute>
     </packagedElement>
     <packagedElement xmi:type="uml:Class" xmi:id="_3TgsEC1JEeqqpY0lJAt8Mg" name="Alarm"/>
     <packagedElement xmi:type="uml:Class" xmi:id="_52lFwC1JEeqqpY0lJAt8Mg" name="Distance sensor"/>
@@ -140,11 +140,11 @@
       </eAnnotations>
       <ownedEnd xmi:type="uml:Property" xmi:id="_Obvy8C1KEeqqpY0lJAt8Mg" name="arduino" type="_0aU4cC1JEeqqpY0lJAt8Mg" association="_Obt9wC1KEeqqpY0lJAt8Mg"/>
     </packagedElement>
-    <packagedElement xmi:type="uml:Association" xmi:id="_PD4xAC1KEeqqpY0lJAt8Mg" memberEnd="_PD5YEi1KEeqqpY0lJAt8Mg _PD5YFS1KEeqqpY0lJAt8Mg">
+    <packagedElement xmi:type="uml:Association" xmi:id="_PD4xAC1KEeqqpY0lJAt8Mg" visibility="protected" memberEnd="_PD5YEi1KEeqqpY0lJAt8Mg _PD5YFS1KEeqqpY0lJAt8Mg">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_PD5YEC1KEeqqpY0lJAt8Mg" source="org.eclipse.papyrus">
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PD5YES1KEeqqpY0lJAt8Mg" key="nature" value="UML_Nature"/>
       </eAnnotations>
-      <ownedEnd xmi:type="uml:Property" xmi:id="_PD5YFS1KEeqqpY0lJAt8Mg" name="arduino" type="_0aU4cC1JEeqqpY0lJAt8Mg" association="_PD4xAC1KEeqqpY0lJAt8Mg"/>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_PD5YFS1KEeqqpY0lJAt8Mg" name="raspberry" type="_ujcwMC0_EeqqpY0lJAt8Mg" association="_PD4xAC1KEeqqpY0lJAt8Mg"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_SPPSsC1KEeqqpY0lJAt8Mg" memberEnd="_SPP5wi1KEeqqpY0lJAt8Mg _SPQg0i1KEeqqpY0lJAt8Mg">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_SPP5wC1KEeqqpY0lJAt8Mg" source="org.eclipse.papyrus">
