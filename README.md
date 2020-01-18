@@ -103,4 +103,12 @@ Create index.php with phpinfo()
 ```sh
 $ echo "<?php phpinfo(); ?>" > /var/www/html/index.php
 ```
+### Command
+Record a video during 5s with size 640x480 in ./output.avi
+```sh
+$ ffmpeg -t 5 -f v4l2 -framerate 25 -video_size 640x480 -i /dev/video0 output.avi
+```
+
+
+
  
